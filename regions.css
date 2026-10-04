@@ -24,3 +24,8 @@
 @media(max-width:650px){.regional-scene-stack{width:112px;height:83px}.regional-scene-stack img:nth-child(2){left:18px}.regional-scene-stack img:nth-child(3){left:36px}}
 
 .lesson-evidence summary::after{content:"+";margin-left:auto;flex-shrink:0;font-size:20px;font-weight:400}.lesson-evidence[open] summary::after{content:"−"}
+
+/* Language picker: one frame only (the picker already draws its own). */
+.lang-toggle:has(.language-picker){border:0;background:transparent;padding:0;border-radius:0}
+/* Phone: stamp sits cleanly on the card corner with readable text. */
+@media(max-width:650px){.conversation-stamp{background:#f9edbd;width:74px;height:74px;top:-24px;right:12px;box-shadow:0 0 0 3px #f9edbd}.conversation-stamp b{font-size:25px}.conversation-stamp span{font-size:8.5px;padding:1px 2px;white-space:nowrap}.conversation-stamp small{display:none}.welcome-strip .notebook-label{padding-right:78px}}
