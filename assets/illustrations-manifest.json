@@ -1,0 +1,835 @@
+{
+  "style": "Editorial Japanese risograph: cobalt, cream, coral, golden yellow and mint; natural adult conversations; no interface text.",
+  "assets": [
+    {
+      "key": "food-menu",
+      "src": "assets/food-menu.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 20%",
+      "originalSha256": "cb5d6814fd6a6b3eba0c9dec34fa60f28c6602922cc296058e4af4a408fb7832",
+      "webpSha256": "381e2584941c6675de2155e344b0e2d0fa21b13fddc230e1495affbd923c449d",
+      "prompt": "Use case: illustration-story. Asset type: finished square 1024x1024 editorial illustration for an adult Japanese language learning website. Style: sophisticated joyful risograph and editorial cut-paper illustration, chunky cobalt outlines, warm cream paper, coral, golden yellow and mint accents, tactile hand-printed paper grain, elegantly simplified shapes, believable adult hands and anatomy, natural expressive friendly faces. Japanese and South or Southeast Asian adults in their 20s-30s. Full scene to the edges. Central action survives a square crop. No text, letters, numbers, logos, watermarks, UI, or speech bubbles. All menus, papers, signs, and notebooks are entirely blank. Scene: Japanese adult waitstaff with a dark bob in a cream shirt and mint apron stands beside a seated South Asian adult guest with dark curly hair in a coral casual jacket. They discuss an entirely blank open cream menu at a restaurant table. Guest holds the open menu centrally at chest level, looks up to the staff with a gentle curious smile; staff bends slightly toward the guest and uses a relaxed open hand to indicate the blank page, smiling naturally in reassurance. Close conversational eye-level view with the waitstaff on left and guest seated right, both faces and the central blank menu clear. Warm golden pendant lamp, cobalt-outlined wood furniture, tiny vase and green tea cup, coral seating. No other papers, no receipt or payment action. No readable text anywhere, menu has entirely blank cream pages. Fresh independent composition."
+    },
+    {
+      "key": "food-reservation",
+      "src": "assets/food-reservation.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "32e4166f871c517d91258c43fd1895ba4f6efe459fabbf5081b176a940fa3ecb",
+      "webpSha256": "1f422025b5d313297edc596e56ec2b90c1d581c76e37c01dd46dd9777fdcae02",
+      "prompt": "Use case: illustration-story. Asset type: finished square 1024x1024 editorial illustration for an adult Japanese language learning website. Style: sophisticated joyful risograph and editorial cut-paper illustration, chunky cobalt outlines, warm cream paper, coral, golden yellow and mint accents, tactile hand-printed paper grain, elegantly simplified shapes, believable adult hands and anatomy, natural expressive friendly faces. Japanese and South or Southeast Asian adults in their 20s-30s. Full scene to the edges. Central action survives a square crop. No text, letters, numbers, logos, watermarks, UI, or speech bubbles. All menus, papers, signs, and notebooks are entirely blank. Scene: a Japanese adult restaurant worker with short dark hair and round glasses in a cobalt overshirt and golden-yellow apron confirms a reservation by telephone behind a wooden counter. He holds a simple cordless handset to his ear, looks down with a attentive reassuring smile, and places his free hand beside an entirely blank open notebook. Three-quarter elevated view, central phone-to-ear gesture and notebook clearly visible. A small mint pen lies on the notebook, no written marks anywhere. Behind him a cozy restaurant with coral booth seats, tidy dining tables, cream pendant lamps and a leafy plant; daytime light. One adult worker is the clear main subject. This is reservation planning, no meal bill or cash register action. Distinct fresh original composition."
+    },
+    {
+      "key": "food-table",
+      "src": "assets/food-table.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "30e224474c6949b1c7a5c5950bd557a2275bcc945079b79f4829ee63a80fef74",
+      "webpSha256": "60979f696ca0c66a8aece6f0648e8333f9aecf3140f8dbd5a4adcd14e24d05a2",
+      "prompt": "Use case: illustration-story. Asset type: finished square 1024x1024 editorial illustration for an adult Japanese language learning website. Style: sophisticated joyful risograph and editorial cut-paper illustration, chunky cobalt outlines, warm cream paper, coral, golden yellow and mint accents, tactile hand-printed paper grain, elegantly simplified shapes, believable adult hands and anatomy, natural expressive friendly faces. Japanese and South or Southeast Asian adults in their 20s-30s. Full scene to the edges. Central action survives a square crop. No text, letters, numbers, logos, watermarks, UI, or speech bubbles. All menus, papers, signs, and notebooks are entirely blank. Scene: a Southeast Asian adult restaurant host with shoulder-length dark hair tied back, cream blouse and cobalt apron guides two Japanese adult guests to a clean dining table. Host stands on the left with a natural open palm showing the tidy table in the center; an adult woman in a coral cardigan and an adult man in a mint shirt approach from the right, smiling at the host. Wider shoulder-height diagonal viewpoint that clearly shows all three adults and the destination table; two simple entirely blank cream menus lie on the tabletop alongside neatly arranged plates, chopsticks and pale mint water glasses. Coral chairs, golden pendant lights, green leaves, warm wood interior. Clear welcoming seating action, no food bill, receipt, money, phone or payment. Distinct original composition."
+    },
+    {
+      "key": "friend-bill",
+      "src": "assets/friend-bill.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 46%",
+      "originalSha256": "1b6c34c88e1836154ce13a9dbd0f0310a9474b931ca26fe1efdcd3bf4163e4ab",
+      "webpSha256": "95f95fd7f896e248fceff0cf5862c16982cdbca84d426c0db8f1d961f653f341",
+      "prompt": "Use case: illustration-story. Asset type: finished square 1024x1024 editorial illustration for an adult Japanese language learning website. Sophisticated joyful risograph and editorial cut-paper style, chunky cobalt outlines, warm cream paper, coral, golden yellow, mint, tactile print grain, expressive natural adult faces, simple beautifully drawn shapes and believable hands. Adults in their 20s-30s. No text of any kind, no letters, numbers, logos, watermarks, speech bubbles, or UI. All screens, papers, book pages and signs entirely blank cream or simple solid color. Keep the important action centered and readable through tight square cropping. Full scene fills frame. Scene: three adult friends share a casual meal and divide the bill at a Japanese neighborhood restaurant. Japanese adult woman with a loose dark updo in coral cardigan, South Asian adult man with dark wavy hair and light beard in mint shirt, Japanese adult man with round glasses in yellow sweater. Elevated three-quarter view across a round table, the woman holds a long totally blank cream receipt in the center and the friends look at it with warm practical expressions. One gestures toward the blank paper. Small plates, rice bowls, chopsticks neatly set, green tea cups, modest wood booths and hanging lantern shapes. Open friendly group body language, strong table-centered composition and variety in adult features."
+    },
+    {
+      "key": "friend-concert",
+      "src": "assets/friend-concert.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "837899c55e20e09ce34a5422bcd3d22de37abf47f94fd27ec8f7f0e20f1600f4",
+      "webpSha256": "4d3af53ecd2db21897d006baf7e8c05df74e9a1bca28b75d29735f1fb6c9c77f",
+      "prompt": "Use case: illustration-story. Asset type: a finished square 1024x1024 editorial illustration for an adult Japanese language learning website. Style: sophisticated joyful risograph and editorial cut-paper illustration, bold chunky cobalt outlines, cream paper ground, coral, golden yellow and mint accents, richly tactile paper grain, elegant simple shapes and believable adult anatomy, expressive but natural warm faces, hand-printed color layers. Adults in their 20s-30s. No text of any kind, no letters, no numbers, no logos, no watermarks, no UI, no speech bubbles. Compose the central interaction so it remains clear in a tight square crop. Full scene to the edges. Scene: two adult friends planning to attend a concert beside the entrance to a cozy small music venue. One Japanese woman with a short dark bob and coral jacket holds two totally blank cream paper tickets; one South Asian male friend with curly dark hair and a mint overshirt happily points toward the venue entrance. Three-quarter side viewpoint, figures standing in the foreground with lively bent arms and the blank tickets centered. Behind them, a compact stage glimpsed through an open door with a microphone stand, drum silhouette and warm golden lighting. Evening feeling, relaxed anticipation, distinct architecture and diagonal composition. Keep all signs blank. This is a fresh independent scene."
+    },
+    {
+      "key": "friend-meetup",
+      "src": "assets/friend-meetup.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 41%",
+      "originalSha256": "b9c2185f2de463f1c8e87c9fae9b28ebc791935fc5796670899d57d62e7f0f59",
+      "webpSha256": "aeef4a6371c92c3d0b96b59a9e5b23bb27a948bf01e7a234e991dc2a32706143",
+      "prompt": "Use case: illustration-story. Asset type: finished square 1024x1024 editorial illustration for an adult Japanese language learning website. Primary request: one adult friend hurrying to meet a waving adult friend at a park meeting point. Style: sophisticated joyful risograph and editorial cut-paper illustration, chunky cobalt outlines, cream paper, coral, golden yellow and mint accents, tactile print grain, simple beautiful shapes, natural happy faces and adult anatomy. Scene: a Japanese woman in her late 20s with a dark ponytail wearing a coral casual jacket hurries from the near foreground toward her Southeast Asian male friend in his late 20s with short dark hair wearing a mint jacket and carrying a canvas tote, who stands farther back beside a simple unmarked park clock column with a plain circular disc and waves one raised hand. No clock numerals or hands needed. Distinct wide three-quarter composition with both friends visible head to knees, woman's forward stride and swinging ponytail clearly readable, waving friend central-right; winding pale path, leafy trees, flowering shrubs, a yellow park bench, late afternoon light. Center all key action inside safe crop area, friendly relatable reunion, no exaggerated cartoon posing. No text, letters, numbers, logos, watermarks, UI or speech bubbles, no printed signs, clock entirely unmarked. New original composition, full frame scene."
+    },
+    {
+      "key": "friend-movie",
+      "src": "assets/friend-movie.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "87e8449a3b23e4ab88bcd7d650a5606960bba897cdf7d2b92d9f51f22b6af8f8",
+      "webpSha256": "ad5f17cd13f5cc1c1f1073a998bb23d30032ab7a73fa41e302bcb9453b3c9ecb",
+      "prompt": "Use case: illustration-story. Asset type: a finished square 1024x1024 editorial illustration for an adult Japanese language learning website. Style: sophisticated joyful risograph and editorial cut-paper illustration, bold chunky cobalt outlines, cream paper ground, coral, golden yellow and mint accents, richly tactile paper grain, elegant simple shapes and believable adult anatomy, expressive but natural warm faces, hand-printed color layers. Adults in their 20s-30s. No text of any kind, no letters, no numbers, no logos, no watermarks, no UI, no speech bubbles. Compose the central interaction so it remains clear in a tight square crop. Full scene to the edges. Scene: two friends deciding which movie to watch in a warmly lit cinema lobby. A Japanese adult man with round glasses in a mint cardigan and a Southeast Asian adult woman with dark hair pulled back wearing a yellow blouse. The woman holds a striped coral-and-cream tub of popcorn, the man holds a blank cream admission card; they smile naturally toward each other. Medium-close eye-level composition, central popcorn tub and hand gestures, behind them a curved golden ticket counter, circular glowing lights and closed coral theater doors, decorative poster panels entirely blank. Sophisticated relaxed date-like friendship, unmistakable movie-theater context. Fresh independent composition."
+    },
+    {
+      "key": "friend-phone",
+      "src": "assets/friend-phone.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 40%",
+      "originalSha256": "30bcd38bc884050a54195d2cbccc51cd5dd597cd992aa2c6ea75599cf72717f7",
+      "webpSha256": "de03659c2a2a6b05acad6bdf14c8304026182bd8c0670ec483b0b9946fa9d70d",
+      "prompt": "Use case: illustration-story. Asset type: finished square 1024x1024 editorial illustration for an adult Japanese language learning website. Sophisticated joyful risograph and editorial cut-paper style, chunky cobalt outlines, warm cream paper, coral, golden yellow, mint, tactile print grain, expressive natural adult faces, simple beautifully drawn shapes and believable hands. Adults in their 20s-30s. No text of any kind, no letters, numbers, logos, watermarks, speech bubbles, or UI. All screens, papers, book pages and signs entirely blank cream or simple solid color. Keep the important action centered and readable through tight square cropping. Full scene fills frame. Scene: at an urban Japanese train-station exit, two adult friends consult a smartphone together to find their way. A Japanese man with short dark hair in a yellow jacket holds a dark-blue smartphone at the center, its screen facing viewer but entirely blank pale mint with NO icons or map details. A Southeast Asian woman with straight shoulder-length dark hair in coral shirt leans in and points with one finger to the screen. Their thoughtful smiles are relaxed and collaborative. Close shoulder-height view from slightly over the woman's shoulder, faces in profile and three-quarter view, central phone and hands. Station stairs, clean rails, rounded canopy and a glimpse of leafy street outside behind them. Daylight, fresh mint background shapes."
+    },
+    {
+      "key": "friend-rain",
+      "src": "assets/friend-rain.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "160ea22e60d437f81a7957200df80147180dafea97279e41d8111d8e363c86b7",
+      "webpSha256": "22fa3aecbdf7f70f3140ab14f04282fbdbff870af10c0a9c8cde6225990f7e5e",
+      "prompt": "Use case: illustration-story. Asset type: a finished square 1024x1024 editorial illustration for an adult Japanese language learning website. Style: sophisticated joyful risograph and editorial cut-paper illustration, bold chunky cobalt outlines, cream paper ground, coral, golden yellow and mint accents, richly tactile paper grain, elegant simple shapes and believable adult anatomy, expressive but natural warm faces, hand-printed color layers. Adults in their 20s-30s. No text of any kind, no letters, no numbers, no logos, no watermarks, no UI, no speech bubbles. Compose the central interaction so it remains clear in a tight square crop. Full scene to the edges. Scene: three adult friends changing their plans during light rain at an outdoor cafe. Japanese woman with chin-length dark bob wearing yellow raincoat, South Asian woman with dark wavy hair wearing mint jacket, Japanese man with dark short hair wearing coral sweater. Two big umbrellas, one cobalt and one coral, shelter them above the central figures. One friend points toward an open cafe doorway, others respond with amused practical smiles. Slight low-angle diagonal viewpoint; wet paving with colorful reflections, a cafe table and empty chairs at one side, rain streaks and leafy planters. Central human interaction readable, beautiful umbrella arcs, warm illuminated interior in backdrop. Avoid anything printed on signs, all papers and screens blank. Fresh independent illustration."
+    },
+    {
+      "key": "friend-study",
+      "src": "assets/friend-study.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 45%",
+      "originalSha256": "4d421fb7e4fb8243884c4fb55b1b5fa39e1f96f7666329b592fafd5854b945fa",
+      "webpSha256": "54e6223b48583b2a090be2cb524eb8043852b7327e505ae344d7464decf527a7",
+      "prompt": "Use case: illustration-story. Asset type: finished square 1024x1024 editorial illustration for an adult Japanese language learning website. Sophisticated joyful risograph and editorial cut-paper style, chunky cobalt outlines, warm cream paper, coral, golden yellow, mint, tactile print grain, expressive natural adult faces, simple beautifully drawn shapes and believable hands. Adults in their 20s-30s. No text of any kind, no letters, numbers, logos, watermarks, speech bubbles, or UI. All screens, papers, book pages and signs entirely blank cream or simple solid color. Keep the important action centered and readable through tight square cropping. Full scene fills frame. Scene: two adult friends studying Japanese together at a quiet sunlit cafe table. Japanese adult woman with a short pixie haircut and thin glasses in mint cardigan and South Asian adult woman with dark braided hair in a coral sweater. Side-on intimate tabletop view, both seated, one pointing into a large open cream book whose pages are completely blank, the other taking a note with pencil in a blank notebook. Warm focused smiles, coffee mugs, neatly stacked books with entirely plain covers, leafy plant, big window with golden daylight. Strong centered open-book action, calm studious mood. Avoid visual language symbols, the learning context is communicated only by books and adult collaboration."
+    },
+    {
+      "key": "city-paperwork",
+      "src": "assets/city-paperwork.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "2db11d82cfc2bf115c835cefdaa5547751e94ad8865274d4d6932137de4cc172",
+      "webpSha256": "7f00cf3a1d9f236a69e777729a958d219bbe2aa73e43923bf092ae0abefdde9e",
+      "prompt": "Use case: illustration-story. Asset type: square narrative illustration for a Japanese-learning website. Generate a single polished 1024x1024 illustration. STYLE ONLY references: the viewed clinic and station illustrations, same sophisticated joyful Japanese editorial risograph and cut-paper aesthetic, bold chunky cobalt outlines, soft irregular paper edges, richly tactile grain and ink texture, warm cream, deep cobalt, coral, sunny yellow and mint palette. Warm expressive ADULT people with natural faces, believable hands and body language. Central action comfortably inside the middle 80% for responsive cropping; richly composed setting. No text, no lettering, no numerals, no logos, no watermarks, no UI, no speech bubbles. Fresh distinct composition, viewpoint, clothing and characters.\nScene: At a Japanese municipal service desk, a Japanese adult woman clerk wearing a coral sweater and plain cobalt lanyard patiently explains a blank cream form to a South Asian adult male learner in a mint shirt, with glasses and a yellow document folder. Clerk points toward the form on desk while learner holds a pen and listens. High three-quarter view across desk emphasizes hands, blank form, folder, and friendly expressions, cream civic hall background with plants, unlabelled files and waiting chairs. Form must have NO printed text or lettering; only blank paper."
+    },
+    {
+      "key": "clinic-access",
+      "src": "assets/clinic-access.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "ab378de8d5f50acf853c069c10c70d81c1350a6aa6ad82e1b7f9797409a2f461",
+      "webpSha256": "328c65c269350adb3c58f6c936f6bc4ff764c17e718b2f107158de18103e4da7",
+      "prompt": "Use case: illustration-story. Asset type: square narrative illustration for a Japanese-learning website. Generate a single polished 1024x1024 illustration. STYLE ONLY references: the viewed clinic and station illustrations, same sophisticated joyful Japanese editorial risograph and cut-paper aesthetic, bold chunky cobalt outlines, soft irregular paper edges, richly tactile grain and ink texture, warm cream, deep cobalt, coral, sunny yellow and mint palette. Warm expressive ADULT people with natural faces, believable hands and body language. Central action comfortably inside the middle 80% for responsive cropping; richly composed setting. No text, no lettering, no numerals, no logos, no watermarks, no UI, no speech bubbles. Fresh distinct composition, viewpoint, clothing and characters.\nScene: Outside the accessible entrance of a bright neighborhood Japanese clinic, an independent Southeast Asian adult woman wheelchair user in a mustard-yellow shirt and mint trousers talks calmly with a Japanese adult woman clinic staff member in a coral cardigan and cobalt lanyard. They are both stationary on a generous flat level paved area at the bottom of a gently sloping cream ramp leading to a wide doorway. Staff stands alongside and makes a polite open-hand gesture toward the ramp entrance, visitor looks at her with a friendly smile. Wheelchair user's hands rest naturally on her own lap and wheel; no one touches or pushes her chair, no physical assistance, no injured person, no procedures. Medium wide three-quarter side view with clear human faces and central conversation, ramp visible behind them with safe cobalt handrails, potted greenery and cream clinic facade, no steps obstructing ramp, no logos, no writing, no numbers, no signs."
+    },
+    {
+      "key": "clinic-counter",
+      "src": "assets/clinic-counter.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "8f58f175868f9151d799696a927a1914b62f8337faed269cf53fde4d5ed9183f",
+      "webpSha256": "2506401c4250d711db7529a1a7ebf58b4acf1af67a13c191eafa25cc7b1be1ae",
+      "prompt": "Use case: illustration-story. Asset type: square narrative illustration for a Japanese-learning website. Generate a single polished 1024x1024 illustration. STYLE ONLY references: the viewed clinic and station illustrations, same sophisticated joyful Japanese editorial risograph and cut-paper aesthetic, bold chunky cobalt outlines, soft irregular paper edges, richly tactile grain and ink texture, warm cream, deep cobalt, coral, sunny yellow and mint palette. Warm expressive ADULT people with natural faces, believable hands and body language. Central action comfortably inside the middle 80% for responsive cropping; richly composed setting. No text, no lettering, no numerals, no logos, no watermarks, no UI, no speech bubbles. Fresh distinct composition, viewpoint, clothing and characters.\nScene: At a Japanese clinic checkout counter, a Japanese adult male receptionist wearing cream shirt and a cobalt lanyard passes a small plain blank appointment or receipt sheet across a yellow reception counter to a South Asian adult woman patient with a dark hair bun, coral cardigan and a mint tote bag. Patient reaches to receive the sheet, friendly eye contact, central handover action. Low eye-level side view with two people in profile-three-quarter, cobalt desk partitions, cream interior, simple plant and warm window light. Sheet and all backgrounds contain no writing, no text. No medical procedures."
+    },
+    {
+      "key": "clinic-phone",
+      "src": "assets/clinic-phone.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "c66e594e734f1c9dc6f3ed107fc1fcd37a94c768b6d01359dc81efc4ebf34f14",
+      "webpSha256": "5519f6f03701e8a6c8c72b22b6feb7131c9bc7d6f0f4042e8e1528254e7662dc",
+      "prompt": "Use case: illustration-story. Asset type: square narrative illustration for a Japanese-learning website. Generate a single polished 1024x1024 illustration. STYLE ONLY references: the viewed clinic and station illustrations, same sophisticated joyful Japanese editorial risograph and cut-paper aesthetic, bold chunky cobalt outlines, soft irregular paper edges, richly tactile grain and ink texture, warm cream, deep cobalt, coral, sunny yellow and mint palette. Warm expressive ADULT people with natural faces, believable hands and body language. Central action comfortably inside the middle 80% for responsive cropping; richly composed setting. No text, no lettering, no numerals, no logos, no watermarks, no UI, no speech bubbles. Fresh distinct composition, viewpoint, clothing and characters.\nScene: At home in a bright modest Japanese apartment, a South Asian adult woman with dark shoulder-length wavy hair in a mint shirt makes a clinic appointment by telephone. She holds a simple coral mobile phone to her ear with one hand and a pencil poised over a blank cream paper appointment notebook with the other; she listens with a calm friendly expression. Single human main subject, seated in profile-three-quarter at a yellow wood breakfast table, potted plant and blue curtains, cozy afternoon sunlight, phone screen not visible. Center action is clearly the phone conversation, no screens or printed writing."
+    },
+    {
+      "key": "clinic-questionnaire",
+      "src": "assets/clinic-questionnaire.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "98b2c88d5ff361c0cdfb619a30cfec445d61077c6035dd8d2e3107668196a8bd",
+      "webpSha256": "6157ae8b43d56dc4f1cf002c27f2bd2cc33b72c6aa46fabe904119e17f96a758",
+      "prompt": "Use case: illustration-story. Asset type: square narrative illustration for a Japanese-learning website. Generate a single polished 1024x1024 illustration. STYLE ONLY references: the viewed clinic and station illustrations, same sophisticated joyful Japanese editorial risograph and cut-paper aesthetic, bold chunky cobalt outlines, soft irregular paper edges, richly tactile grain and ink texture, warm cream, deep cobalt, coral, sunny yellow and mint palette. Warm expressive ADULT people with natural faces, believable hands and body language. Central action comfortably inside the middle 80% for responsive cropping; richly composed setting. No text, no lettering, no numerals, no logos, no watermarks, no UI, no speech bubbles. Fresh distinct composition, viewpoint, clothing and characters.\nScene: At a Japanese clinic reception desk, a Southeast Asian adult male patient with short dark hair, glasses and a mustard yellow sweater holds up a completely blank cream questionnaire form and asks a Japanese adult female clinic clerk in a mint blouse to explain it. Clerk is on other side of cobalt-edged counter, smiling attentively and pointing to the blank form. Slightly overhead three-quarter view across desk shows central form, both faces and expressive hands, coral wall accents, unlabelled file shelves, plant and small waiting area. Papers and badges blank; no treatment, no medical procedure."
+    },
+    {
+      "key": "clinic-wait",
+      "src": "assets/clinic-wait.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 45%",
+      "originalSha256": "abac0c30cddff9d82b3774b37e875bb4cdb2f2468af60530beed6248238fa9d9",
+      "webpSha256": "3081e678e90edc76618d5bfa1e9865764e0c2bcd9d17defc2139ba4568ed3c7b",
+      "prompt": "Use case: illustration-story. Asset type: square narrative illustration for a Japanese-learning website. Generate a single polished 1024x1024 illustration. STYLE ONLY references: the viewed clinic and station illustrations, same sophisticated joyful Japanese editorial risograph and cut-paper aesthetic, bold chunky cobalt outlines, soft irregular paper edges, richly tactile grain and ink texture, warm cream, deep cobalt, coral, sunny yellow and mint palette. Warm expressive ADULT people with natural faces, believable hands and body language. Central action comfortably inside the middle 80% for responsive cropping; richly composed setting. No text, no lettering, no numerals, no logos, no watermarks, no UI, no speech bubbles. Fresh distinct composition, viewpoint, clothing and characters.\nScene: In a calm sunny Japanese clinic waiting area, a Japanese adult male reception staff member in a cream polo shirt with a cobalt lanyard uses an open-hand gesture toward the empty waiting chairs while speaking to a Southeast Asian adult woman patient in a coral blouse who holds a small blank appointment card. Standing beside a mint bench with yellow cushion, patient understands where to wait, serene respectful expressions, central conversation, simple clock with no numerals, bright windows and foliage. Wide three-quarter view with the waiting area clearly visible. No medical procedures, no medical equipment, no visible text."
+    },
+    {
+      "key": "food-takeout",
+      "src": "assets/food-takeout.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "62e981450789cfb1405589710eccd5872af3e9630416d20bbf474ad1b59f40d7",
+      "webpSha256": "f74cd43c5338bb502dabdfce336fe45f67af69992e372d4c9dcd8446a6cd23cb",
+      "prompt": "Use case: illustration-story. Asset type: square narrative illustration for a Japanese-learning website. Generate a single polished 1024x1024 illustration. STYLE ONLY references: the viewed clinic and station illustrations, same sophisticated joyful Japanese editorial risograph and cut-paper aesthetic, bold chunky cobalt outlines, soft irregular paper edges, richly tactile grain and ink texture, warm cream, deep cobalt, coral, sunny yellow and mint palette. Warm expressive ADULT people with natural faces, believable hands and body language. Central action comfortably inside the middle 80% for responsive cropping; richly composed setting. No text, no lettering, no numerals, no logos, no watermarks, no UI, no speech bubbles. Fresh distinct composition, viewpoint, clothing and characters.\nScene: At a compact Japanese takeaway restaurant counter, a Japanese adult man restaurant staff member in a coral apron hands a plain cream paper takeaway bag with cobalt handles to a South Asian adult woman customer wearing a mint blazer and yellow scarf. They smile in a friendly brief exchange. Low eye-level three-quarter close view of the central bag handover, warm wooden counter, blank paper menu rectangles and small unlabelled takeaway bowls behind. Scene looks restaurant-specific, not grocery."
+    },
+    {
+      "key": "home-maintenance",
+      "src": "assets/home-maintenance.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "e99bb4b30c035e3cc76825991d8b51a337aba945d74df8b29cf962995dad63ef",
+      "webpSha256": "fc971660860b01bf035d75d93fa5356e297619165d707ca01f30b8d4db1d6d4d",
+      "prompt": "Use case: illustration-story. Asset type: square narrative illustration for a Japanese-learning website. Generate a single polished 1024x1024 illustration. STYLE ONLY references: the viewed clinic and station illustrations, same sophisticated joyful Japanese editorial risograph and cut-paper aesthetic, bold chunky cobalt outlines, soft irregular paper edges, richly tactile grain and ink texture, warm cream, deep cobalt, coral, sunny yellow and mint palette. Warm expressive ADULT people with natural faces, believable hands and body language. Central action comfortably inside the middle 80% for responsive cropping; richly composed setting. No text, no lettering, no numerals, no logos, no watermarks, no UI, no speech bubbles. Fresh distinct composition, viewpoint, clothing and characters.\nScene: Inside a modest bright Japanese apartment kitchenette, a Southeast Asian adult woman tenant wearing a mustard yellow cardigan points to a dripping kitchen tap while a Japanese adult male housing manager wearing a cobalt jacket and carrying a clipboard listens and observes. Water droplets into stainless sink make the maintenance problem clear. Both adults standing naturally, faces polite and concerned but calm, generous side view shows their gestures and entire sink. No tools, no DIY repair, no one touches the plumbing. Blank clipboard sheet."
+    },
+    {
+      "key": "home-parcel",
+      "src": "assets/home-parcel.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "a3fa2c82ef89fa8bac2f7c91b06a28c442b5059f4a20fa2a8d7dde99ec20ed96",
+      "webpSha256": "24e6b1bca5e24f25d4244674049acf4163ada97f5a2b4a04dae7fe66ffb5bf59",
+      "prompt": "Use case: illustration-story. Asset type: square narrative illustration for a Japanese-learning website. Generate a single polished 1024x1024 illustration. STYLE ONLY references: the viewed clinic and station illustrations, same sophisticated joyful Japanese editorial risograph and cut-paper aesthetic, bold chunky cobalt outlines, soft irregular paper edges, richly tactile grain and ink texture, warm cream, deep cobalt, coral, sunny yellow and mint palette. Warm expressive ADULT people with natural faces, believable hands and body language. Central action comfortably inside the middle 80% for responsive cropping; richly composed setting. No text, no lettering, no numerals, no logos, no watermarks, no UI, no speech bubbles. Fresh distinct composition, viewpoint, clothing and characters.\nScene: In the shared entrance lobby of a Japanese apartment building, a Southeast Asian adult man wearing a mint hoodie and cream trousers takes a plain small brown parcel from an open cobalt parcel-locker compartment. A Japanese adult woman property staff member in a coral cardigan warmly gestures to the locker door. Parcel receiving action center frame, locker wall geometric blue and cream squares with NO numbers or lettering, potted palm, small glimpse of outdoor street. Slightly overhead three-quarter medium view, believable locker system, blank packaging."
+    },
+    {
+      "key": "library-learning",
+      "src": "assets/library-learning.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "8b15d43cd7fa368ffffc4c2c0e1d6d3c854fb7b645e4585e8404d7239c8bb24d",
+      "webpSha256": "2c25cd3bf61e026bd0a430a1c4aa92ec4989635cf1dd301f6e1de53ba764c92a",
+      "prompt": "Use case: illustration-story. Asset type: square narrative illustration for a Japanese-learning website. Generate a single polished 1024x1024 illustration. STYLE ONLY references: the viewed clinic and station illustrations, same sophisticated joyful Japanese editorial risograph and cut-paper aesthetic, bold chunky cobalt outlines, soft irregular paper edges, richly tactile grain and ink texture, warm cream, deep cobalt, coral, sunny yellow and mint palette. Warm expressive ADULT people with natural faces, believable hands and body language. Central action comfortably inside the middle 80% for responsive cropping; richly composed setting. No text, no lettering, no numerals, no logos, no watermarks, no UI, no speech bubbles. Fresh distinct composition, viewpoint, clothing and characters.\nScene: At a sunlit reading table in a Japanese public library, a Japanese adult woman librarian wearing a yellow cardigan and glasses sits beside a Southeast Asian adult woman learner with a short dark bob and coral shirt. Librarian shows the learner how to use an illustrated vocabulary book, pointing gently to a simple picture on the open pages while learner listens with a pencil and mint notebook ready. Open books, no visible printed letters or numerals, covers completely blank, bookshelves receding into a warm airy background with high windows. Slightly elevated three-quarter composition, both faces visible, hands and open book central. Distinct relaxed seated learning scene."
+    },
+    {
+      "key": "shop-clothes",
+      "src": "assets/shop-clothes.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "f0d55211ce7c8a04fe8a39d53315f436c268bde51c4f076bc1ac40c1e308da43",
+      "webpSha256": "4c2286228e05e9e3bae81f99f07487ef56e6074fe45b5476a636bc9ecce91421",
+      "prompt": "Use case: illustration-story. Asset type: square narrative illustration for a Japanese-learning website. Generate a single polished 1024x1024 illustration. STYLE ONLY references: the viewed clinic and station illustrations, same sophisticated joyful Japanese editorial risograph and cut-paper aesthetic, bold chunky cobalt outlines, soft irregular paper edges, richly tactile grain and ink texture, warm cream, deep cobalt, coral, sunny yellow and mint palette. Warm expressive ADULT people with natural faces, believable hands and body language. Central action comfortably inside the middle 80% for responsive cropping; richly composed setting. No text, no lettering, no numerals, no logos, no watermarks, no UI, no speech bubbles. Fresh distinct composition, viewpoint, clothing and characters.\nScene: In a cheerful Japanese clothing shop, a Japanese adult male shop assistant in a cobalt apron holds up a mint shirt while a Southeast Asian adult woman customer in a sunny yellow dress holds a coral shirt of another size against her torso. They thoughtfully compare shirt sizes, friendly animated expressions. Three-quarter eye-level view, central shirts and gestures, tasteful clothes racks behind, cream room with cobalt hangers and folded fabric. No writing on tags or clothing."
+    },
+    {
+      "key": "shop-grocery",
+      "src": "assets/shop-grocery.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "61c1dad70558a5828f114fff78422eadc16c267fb5dc634db61069ffd7872faf",
+      "webpSha256": "227a8834d8f603846d041b0fc2bef1014e150d0c88a14177a1864c533097659f",
+      "prompt": "Use case: illustration-story. Asset type: square narrative illustration for a Japanese-learning website. Generate a single polished 1024x1024 illustration. STYLE ONLY references: the viewed clinic and station illustrations, same sophisticated joyful Japanese editorial risograph and cut-paper aesthetic, bold chunky cobalt outlines, soft irregular paper edges, richly tactile grain and ink texture, warm cream, deep cobalt, coral, sunny yellow and mint palette. Warm expressive ADULT people with natural faces, believable hands and body language. Central action comfortably inside the middle 80% for responsive cropping; richly composed setting. No text, no lettering, no numerals, no logos, no watermarks, no UI, no speech bubbles. Fresh distinct composition, viewpoint, clothing and characters.\nScene: At a Japanese neighborhood grocery checkout, a Japanese adult woman cashier in a mint apron offers an open yellow reusable grocery bag to a Southeast Asian adult man customer wearing a cream overshirt and coral backpack strap. They choose the reusable bag together, with fresh green leeks, oranges and a small milk carton ready on the counter. View diagonally across the checkout, central bag and hands prominent, subtle grocery shelves behind, cheerful everyday interaction. All packaging plain blank."
+    },
+    {
+      "key": "transit-bus",
+      "src": "assets/transit-bus.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "a72973d4271f0a495fded5dadf3e544611e4deccb43111ec4b2501885aec30eb",
+      "webpSha256": "cde8a0fa679f77dca09f33aa4348d0e9f4ef0690043c7ba6f04a658f912d4bd0",
+      "prompt": "Use case: illustration-story. Asset type: square narrative illustration for a Japanese-learning website. Generate a single polished 1024x1024 illustration. STYLE ONLY references: the viewed clinic and station illustrations, same sophisticated joyful Japanese editorial risograph and cut-paper aesthetic, bold chunky cobalt outlines, soft irregular paper edges, richly tactile grain and ink texture, warm cream, deep cobalt, coral, sunny yellow and mint palette. Warm expressive ADULT people with natural faces, believable hands and body language. Central action comfortably inside the middle 80% for responsive cropping; richly composed setting. No text, no lettering, no numerals, no logos, no watermarks, no UI, no speech bubbles. Fresh distinct composition, viewpoint, clothing and characters.\nScene: Inside a Japanese local bus, a South Asian adult man passenger with short hair, light beard, coral knit sweater and cream shoulder bag pays the fare with a small coin above the farebox. A Japanese adult woman bus driver in mint shirt and cobalt cap turns gently to help. Passenger and farebox centered, driver beside steering wheel, curved grab rail framing upper image, receding empty seats, warm daylight through windows. Slight low diagonal view, close enough that the payment interaction is unmistakable."
+    },
+    {
+      "key": "transit-platform",
+      "src": "assets/transit-platform.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "cd8e05bc68dec01e7bcd6e71f4cae31eb52e16de44ef2b1a95147842254315a7",
+      "webpSha256": "3f0e4a62f4c2114b819004a0ecfa3bc9699a0f799d37e1f489aa7a09894e29cb",
+      "prompt": "Use case: illustration-story. Asset type: square narrative illustration for a Japanese-learning website. Generate a single polished 1024x1024 illustration. STYLE ONLY references: the viewed clinic and station illustrations, same sophisticated joyful Japanese editorial risograph and cut-paper aesthetic, bold chunky cobalt outlines, soft irregular paper edges, richly tactile grain and ink texture, warm cream, deep cobalt, coral, sunny yellow and mint palette. Warm expressive ADULT people with natural faces, believable hands and body language. Central action comfortably inside the middle 80% for responsive cropping; richly composed setting. No text, no lettering, no numerals, no logos, no watermarks, no UI, no speech bubbles. Fresh distinct composition, viewpoint, clothing and characters.\nScene: On a Japanese urban train platform, a Japanese woman railway staff member in a neat deep cobalt uniform and cap smiles while guiding a Southeast Asian adult woman traveler with a yellow jacket, curly tied-back hair and mint backpack. Staff points toward the open train entrance while traveler listens with a paper ticket in one hand. Three-quarter wide view with the train diagonally receding behind them, roof structure and tactile yellow platform strip. Clear central guiding action."
+    },
+    {
+      "key": "region-chugoku",
+      "src": "assets/region-chugoku.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "7c2f888b2aec777932b2196881c0eb3d83133c93153fe9ca216f11555367d3bc",
+      "webpSha256": "2765ce983debd77b134f27bf6c1575dc4791e0c4142e027666047dd5e2d6d260",
+      "prompt": "Use case: illustration-story. Asset type: original square regional learning postcard for an adult Japanese dialect website, approximately 1024x1024. Style: joyful sophisticated editorial illustration, textured risograph and cut-paper shapes, chunky hand-painted cobalt blue outlines, warm cream paper, coral, golden yellow and mint, slightly irregular ink grain. Clearly adult characters with varied contemporary practical clothes, natural friendly facial features and expressive gestures. Central action is a friendly exchange of words between a Japanese local adult and a South or Southeast Asian adult learner. Broad landscape recognizable at a glance, with substantial setting around the characters. Image is an original standalone scene, not a map. No lettering, no text, no symbols that resemble writing, no logos, watermarks, UI, frames or borders. No costume stereotypes, childlike proportions, photorealism, 3D, or generic repeated café composition. Chugoku on the Seto Inland Sea: a modest ferry terminal and calm blue harbor with a small passenger ferry, low wooded islands and a pier in soft morning light. A Japanese middle-aged adult woman who works at the terminal, in a simple cobalt uniform jacket with no badge or text, gestures toward the boat while speaking warmly to a South Asian adult man traveler in a coral casual jacket carrying a compact plain shoulder bag. Three-quarter medium-wide view from the pier, ferry behind on the left, harbor and islands open on the right. Friendly practical travel exchange, no crowds dominating, no inaccurate historical monuments."
+    },
+    {
+      "key": "region-hokkaido",
+      "src": "assets/region-hokkaido.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "98a1764c387a521db93d8f408b763857080fe13266a60bbbc6768a33d1794511",
+      "webpSha256": "525f4ed72d3498b917aefc182a3b8c5458d123ba3ee2e895f72a53145643eb4b",
+      "prompt": "Use case: illustration-story. Asset type: original square regional learning postcard for an adult Japanese dialect website, approximately 1024x1024. Style: joyful sophisticated editorial illustration, textured risograph and cut-paper shapes, chunky hand-painted cobalt blue outlines, warm cream paper, coral, golden yellow and mint, slightly irregular ink grain. Clearly adult characters with varied contemporary practical clothes, natural friendly facial features and expressive gestures. Central action is a friendly exchange of words between a Japanese local adult and a South or Southeast Asian adult learner. Broad landscape recognizable at a glance, with substantial setting around the characters. Image is an original standalone scene, not a map. No lettering, no text, no symbols that resemble writing, no logos, watermarks, UI, frames or borders. No costume stereotypes, childlike proportions, photorealism, 3D, or generic repeated café composition. Winter in Hokkaido: a snowy Sapporo-style neighborhood street, distant modest clock-tower silhouette and broad snow-dusted evergreens. A Japanese adult woman with short hair in a coral parka and a South Asian adult man with wavy hair in a cobalt padded coat exchange friendly words beside a snowbank; she gestures toward the route and he smiles with a scarf. Three-quarter medium-wide viewpoint, crisp bright winter daylight, footprints in snow, warm window light. Keep both central adults in clear winter coats, waist-up with snowy street visible."
+    },
+    {
+      "key": "region-hokuriku",
+      "src": "assets/region-hokuriku.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 46%",
+      "originalSha256": "aafb43de4d8910c8acd7959fe7d4ae0c9c51e7647e50e51adba081a8ecb14b83",
+      "webpSha256": "b8aa02e752dba47dab1d2d1fa2be5eddf3e51646540c2f285c221053e56f542f",
+      "prompt": "Use case: illustration-story. Asset type: original square regional learning postcard for an adult Japanese dialect website, approximately 1024x1024. Style: joyful sophisticated editorial illustration, textured risograph and cut-paper shapes, chunky hand-painted cobalt blue outlines, warm cream paper, coral, golden yellow and mint, slightly irregular ink grain. Clearly adult characters with varied contemporary practical clothes, natural friendly facial features and expressive gestures. Central action is a friendly exchange of words between a Japanese local adult and a South or Southeast Asian adult learner. Broad landscape recognizable at a glance, with substantial setting around the characters. Image is an original standalone scene, not a map. No lettering, no text, no symbols that resemble writing, no logos, watermarks, UI, frames or borders. No costume stereotypes, childlike proportions, photorealism, 3D, or generic repeated café composition. Hokuriku in fresh spring: an old wooden merchant street with dark timber lattice facades beside an intimate Japanese garden of stepping stones, moss and a sculpted pine. A Japanese middle-aged adult woman with round glasses in a mustard raincoat and a Southeast Asian adult man in a mint jacket walk side by side, chatting warmly and gesturing toward the garden. Wide three-quarter view with full or three-quarter figures, street receding behind them, a little spring drizzle on paving. Modern everyday clothes, bare heads, no costume."
+    },
+    {
+      "key": "region-kanto",
+      "src": "assets/region-kanto.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "2307c69542d0e0f91ce22f96650830d647f71224cbaae886489f4d4f4cc04521",
+      "webpSha256": "60084c3947d5975c0733f113daf536f13fd199557c7ee47b6b95eb115cf821eb",
+      "prompt": "Use case: illustration-story. Asset type: original square regional learning postcard for an adult Japanese dialect website, approximately 1024x1024. Style: joyful sophisticated editorial illustration, textured risograph and cut-paper shapes, chunky hand-painted cobalt blue outlines, warm cream paper, coral, golden yellow and mint, slightly irregular ink grain. Clearly adult characters with varied contemporary practical clothes, natural friendly facial features and expressive gestures. Central action is a friendly exchange of words between a Japanese local adult and a South or Southeast Asian adult learner. Broad landscape recognizable at a glance, with substantial setting around the characters. Image is an original standalone scene, not a map. No lettering, no text, no symbols that resemble writing, no logos, watermarks, UI, frames or borders. No costume stereotypes, childlike proportions, photorealism, 3D, or generic repeated café composition. Kanto metropolitan Tokyo neighborhood: bustling contemporary street under a railway overpass with a train passing overhead, small shops without readable signs, bicycles and pale tall buildings. A Japanese adult woman in a cobalt overshirt and a South Asian adult woman in a coral jacket stand at a corner exchanging friendly words, one points conversationally toward a nearby crossing. Dynamic slightly low-angle medium-wide viewpoint; the overpass cuts a strong diagonal across the top, afternoon urban light. Clear adult proportions and distinct neighborhood composition."
+    },
+    {
+      "key": "region-kinki",
+      "src": "assets/region-kinki.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "dd160caf89bbf4213f4ad38c28d317ca184337a4c10a7bd14308e2e5235fb217",
+      "webpSha256": "5c5c68a1f55ee39dbf675e6667edd34aea0311e58de7cf6e9fbe83a478b427c8",
+      "prompt": "Use case: illustration-story. Asset type: original square regional learning postcard for an adult Japanese dialect website, approximately 1024x1024. Style: joyful sophisticated editorial illustration, textured risograph and cut-paper shapes, chunky hand-painted cobalt blue outlines, warm cream paper, coral, golden yellow and mint, slightly irregular ink grain. Clearly adult characters with varied contemporary practical clothes, natural friendly facial features and expressive gestures. Central action is a friendly exchange of words between a Japanese local adult and a South or Southeast Asian adult learner. Broad landscape recognizable at a glance, with substantial setting around the characters. Image is an original standalone scene, not a map. No lettering, no text, no symbols that resemble writing, no logos, watermarks, UI, frames or borders. No costume stereotypes, childlike proportions, photorealism, 3D, or generic repeated café composition. Kinki: a Kyoto-style lived-in neighborhood lane beside a small wooden teahouse with a plain short curtain over its door, potted plants and warm interior glow. A Japanese adult woman in a coral short jacket has just stepped through the doorway and a Southeast Asian adult woman with long wavy hair in a mustard blouse waits outside; they exchange friendly words as they go out together. Three-quarter side view with the doorway strongly framing one character, adults shown three-quarter length, a narrow lane and tiled eaves recede behind them. Early evening in autumn. Ordinary contemporary clothing and natural adult proportions, no kimonos, no ceremonial costume, no cups, no seated café scene."
+    },
+    {
+      "key": "region-koshinetsu",
+      "src": "assets/region-koshinetsu.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 48%",
+      "originalSha256": "6e2fb99998d7fc77bd5178d60f369b3d70c89295084756d0f6f83ca2a6ee1118",
+      "webpSha256": "11d9fb1d021f462863cd56449c9db5d1b712bfe28219dee9e2d1ba543cf45798",
+      "prompt": "Use case: illustration-story. Asset type: original square regional learning postcard for an adult Japanese dialect website, approximately 1024x1024. Style: joyful sophisticated editorial illustration, textured risograph and cut-paper shapes, chunky hand-painted cobalt blue outlines, warm cream paper, coral, golden yellow and mint, slightly irregular ink grain. Clearly adult characters with varied contemporary practical clothes, natural friendly facial features and expressive gestures. Central action is a friendly exchange of words between a Japanese local adult and a South or Southeast Asian adult learner. Broad landscape recognizable at a glance, with substantial setting around the characters. Image is an original standalone scene, not a map. No lettering, no text, no symbols that resemble writing, no logos, watermarks, UI, frames or borders. No costume stereotypes, childlike proportions, photorealism, 3D, or generic repeated café composition. Koshinetsu: an airy mountain-town lakeside promenade with an alpine lake, quiet low-rise houses and blue forested mountains beyond. Two adult walking friends, a Japanese man with swept hair in a coral sweater and a South Asian woman with short curly hair in a mint hiking overshirt, chat with relaxed gestures as they stroll along the lake. Elevated medium-wide viewpoint, figures seen from an oblique side angle with three-quarter bodies, yellow wildflowers at the edge, clear late-summer morning. Keep the alpine lake as a large distinctive shape and ordinary town life, no iconic sacred landmarks."
+    },
+    {
+      "key": "region-kyushu",
+      "src": "assets/region-kyushu.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "8c96781329b2e16d986274eda97ad14dba27a146980a2a4471e5bec65811ed2f",
+      "webpSha256": "5853c40213310f38aa831c3b7b89aaa1a22e375259d736327eb9ca57c34e7926",
+      "prompt": "Use case: illustration-story. Asset type: original square regional learning postcard for an adult Japanese dialect website, approximately 1024x1024. Style: joyful sophisticated editorial illustration, textured risograph and cut-paper shapes, chunky hand-painted cobalt blue outlines, warm cream paper, coral, golden yellow and mint, slightly irregular ink grain. Clearly adult characters with varied contemporary practical clothes, natural friendly facial features and expressive gestures. Central action is a friendly exchange of words between a Japanese local adult and a South or Southeast Asian adult learner. Broad landscape recognizable at a glance, with substantial setting around the characters. Image is an original standalone scene, not a map. No lettering, no text, no symbols that resemble writing, no logos, watermarks, UI, frames or borders. No costume stereotypes, childlike proportions, photorealism, 3D, or generic repeated café composition. Kyushu: Fukuoka-style streetside food stall at night beside a canal, small wooden mobile stall under a plain cream-and-coral canopy, glowing unlettered lanterns, distant modern neighborhood buildings. A Japanese adult man with short hair in a mustard shirt and a Southeast Asian adult man with wavy hair in a mint overshirt sit side by side on stools, smiling and exchanging words over two simple bowls of noodle soup. Wider slightly elevated oblique composition from across the end of the stall, stools and compact cooking counter visible, steam rising, cozy cobalt night and golden light. Both diners are adults in modern casual clothing; no chef costume or festival clothes. No writing on canopy, lanterns or bowls, no menus or logos."
+    },
+    {
+      "key": "region-okinawa",
+      "src": "assets/region-okinawa.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "b0da958487d9ce1bbc626e210801db891d9207dbe1cc59da7f04ea7d6d3dc513",
+      "webpSha256": "4d3596eee6e3a007a2f7b4d960ec812051861abec19ce04f67ea2a2b7d33ffb7",
+      "prompt": "Use case: illustration-story. Asset type: original square regional learning postcard for an adult Japanese dialect website, approximately 1024x1024. Style: joyful sophisticated editorial illustration, textured risograph and cut-paper shapes, chunky hand-painted cobalt blue outlines, warm cream paper, coral, golden yellow and mint, slightly irregular ink grain. Clearly adult characters with varied contemporary practical clothes, natural friendly facial features and expressive gestures. Central action is a friendly exchange of words between a Japanese local adult and a South or Southeast Asian adult learner. Broad landscape recognizable at a glance, with substantial setting around the characters. Image is an original standalone scene, not a map. No lettering, no text, no symbols that resemble writing, no logos, watermarks, UI, frames or borders. No costume stereotypes, childlike proportions, photorealism, 3D, or generic repeated café composition. Okinawa: a cheerful lived-in island town courtyard beside a single-story red tiled roof house, tropical hibiscus flowers and leafy plants along a low stone wall, a glimpse of turquoise sea in the distance. A Japanese Okinawan adult woman with short salt-and-pepper hair in a coral linen blouse and a South Asian adult woman with wavy hair in a mustard light blouse meet as neighbors and exchange friendly words across the low open garden gate. Medium-wide viewpoint from inside the courtyard with house roof a prominent geometric shape, humid summer morning, relaxed open hand gestures, cream paving and mint foliage. Ordinary contemporary clothing only: no traditional costume, headwear, flower garlands or tourist stereotypes. No shrine symbols, no text, no logos."
+    },
+    {
+      "key": "region-shikoku",
+      "src": "assets/region-shikoku.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "0ed7d4867b79c2ae0946e8c3fc36c88675dd8c9837ff446ae8db349131ee76da",
+      "webpSha256": "b5c523fdece84efea5cbcdf7f9610162ee84062af897daddd2f7a9651f2c369d",
+      "prompt": "Use case: illustration-story. Asset type: original square regional learning postcard for an adult Japanese dialect website, approximately 1024x1024. Style: joyful sophisticated editorial illustration, textured risograph and cut-paper shapes, chunky hand-painted cobalt blue outlines, warm cream paper, coral, golden yellow and mint, slightly irregular ink grain. Clearly adult characters with varied contemporary practical clothes, natural friendly facial features and expressive gestures. Central action is a friendly exchange of words between a Japanese local adult and a South or Southeast Asian adult learner. Broad landscape recognizable at a glance, with substantial setting around the characters. Image is an original standalone scene, not a map. No lettering, no text, no symbols that resemble writing, no logos, watermarks, UI, frames or borders. No costume stereotypes, childlike proportions, photorealism, 3D, or generic repeated café composition. Shikoku countryside: a small riverside citrus stand beneath a simple mustard canopy, clear winding river and green hills beyond, crates of round orange citrus and leafy branches. A Japanese older adult woman merchant with gray bobbed hair in a mint cardigan hands a small paper bag of citrus toward a Southeast Asian adult woman customer in a coral overshirt; both smile and chat. Oblique view across the stand, counter diagonally crossing the lower scene, adults' expressive hands and eye contact central, river and hills distinctly visible. Bright spring midday. Modern everyday clothes, no market sign, no writing on paper bag, no repeated travel backpacks."
+    },
+    {
+      "key": "region-tohoku",
+      "src": "assets/region-tohoku.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "aeceb7e1e2df55db45c4a42990c7a48331d5561842fcd2a502357a67dd70f2bd",
+      "webpSha256": "a9ae84e8a252a1cb8c403f6b9ca745cc0ba4f6b5cf1820eea337159c726bc0f3",
+      "prompt": "Use case: illustration-story. Asset type: original square regional learning postcard for an adult Japanese dialect website, approximately 1024x1024. Style: joyful sophisticated editorial illustration, textured risograph and cut-paper shapes, chunky hand-painted cobalt blue outlines, warm cream paper, coral, golden yellow and mint, slightly irregular ink grain. Clearly adult characters with varied contemporary practical clothes, natural friendly facial features and expressive gestures. Central action is a friendly exchange of words between a Japanese local adult and a South or Southeast Asian adult learner. Broad landscape recognizable at a glance, with substantial setting around the characters. Image is an original standalone scene, not a map. No lettering, no text, no symbols that resemble writing, no logos, watermarks, UI, frames or borders. No costume stereotypes, childlike proportions, photorealism, 3D, or generic repeated café composition. Autumn Tohoku: apple orchard rows under rounded mountain slopes, red apples on branches and harvest crates. A middle-aged Japanese adult man in ordinary mint work jacket and a Southeast Asian adult woman in a mustard cardigan and practical trousers pause during rural work to exchange words, one holds a simple apple basket, the other an apple, friendly eye contact. Wide eye-level view with adults occupying the central lower half, orchard continuing deeply into scene, dry golden autumn grass. Ordinary modern work clothes, no festival costume."
+    },
+    {
+      "key": "region-tokai",
+      "src": "assets/region-tokai.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "beb6a2a1964584b7c5f6be14d3368fd1fce79dd10d50e12362816988979fd562",
+      "webpSha256": "2e769b9223d08882b6ca40b62409f5aaf3dda38c1da53299521036a368702b25",
+      "prompt": "Use case: illustration-story. Asset type: original square regional learning postcard for an adult Japanese dialect website, approximately 1024x1024. Style: joyful sophisticated editorial illustration, textured risograph and cut-paper shapes, chunky hand-painted cobalt blue outlines, warm cream paper, coral, golden yellow and mint, slightly irregular ink grain. Clearly adult characters with varied contemporary practical clothes, natural friendly facial features and expressive gestures. Central action is a friendly exchange of words between a Japanese local adult and a South or Southeast Asian adult learner. Broad landscape recognizable at a glance, with substantial setting around the characters. Image is an original standalone scene, not a map. No lettering, no text, no symbols that resemble writing, no logos, watermarks, UI, frames or borders. No costume stereotypes, childlike proportions, photorealism, 3D, or generic repeated café composition. Tokai: a modern manufacturing-town waterfront with clean low industrial buildings, a warehouse and cranes across a harbor, a promenade railing in the foreground. Two adult coworkers on a break, a Japanese woman with a simple tied ponytail in a mint lightweight work jacket and a South Asian man with close cropped hair and neatly trimmed beard in a cobalt work jacket, exchange friendly words, each holding a small plain takeaway cup. Bold side-on medium-wide composition, adults on the left and harbor occupying the right, soft golden late-afternoon sun. Contemporary practical clothing, no factory brand, no hardhats needed."
+    },
+    {
+      "key": "care-activity",
+      "src": "assets/care-activity.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 48%",
+      "originalSha256": "a7e813e365e16d2795217195db7d32e8567a42da7f7f325a845f8264438d057e",
+      "webpSha256": "5f805949437db12ecf26bc1a1b6122179519b9c658fe54c41083c5846c896867",
+      "prompt": "Use case: illustration-story. Asset type: original square narrative illustration for a Japanese dialect learning website, 1024x1024. Style/medium: sophisticated joyful Japanese editorial risograph and cut-paper illustration; confident bold cobalt ink contours, expressive friendly adult faces, layered matte shapes, subtle grain and offset-print texture. Color palette: textured warm cream, deep cobalt, coral red, golden yellow, mint green, small sky-blue accents. Warm dignified adults, contemporary everyday Japan, inclusive Japanese colleagues and diverse South/Southeast Asian adult workers. Composition/framing: square full-bleed artwork, action and all relevant hands/props within the central 75% so it survives a card crop; careful anatomy. Constraints: original illustration, no text of any kind, no letters, no numbers, no logos, no watermark, no UI frames, no decorative borders; no childish chibi proportions, no photorealism. Each scene should feel like a distinct moment, not generic people talking at a desk.\nPrimary request: An elderly Japanese woman and a Southeast Asian adult male careworker seated making a paper craft together. Scene/backdrop: autumn craft corner in a care home, warm coral curtain and a simple shelf. Subject/action: elderly woman wearing mint cardigan carefully folds a large golden-yellow piece of paper; male careworker with neat short dark hair, coral polo and cobalt apron folds a cobalt paper bird beside her, both seated at a low round table. Several geometric origami shapes, no writing. Composition: slightly overhead three-quarter viewpoint emphasizing four hands and the paper craft in the center, faces at upper third. Respectful mutual enjoyment; simple distinct craft setting."
+    },
+    {
+      "key": "care-door",
+      "src": "assets/care-door.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 42%",
+      "originalSha256": "33949fe8b63bb2931867101e04522425b0ff7accfc15aa45d787c32fd6b02849",
+      "webpSha256": "0c5b1c0b6cd169a269b5090c99439425d9a92b95c9ca5ec6845124840996a8fe",
+      "prompt": "Use case: illustration-story. Asset type: original square narrative illustration for a Japanese dialect learning website, 1024x1024. Style/medium: sophisticated joyful Japanese editorial risograph and cut-paper illustration; confident bold cobalt ink contours, expressive friendly adult faces, layered matte shapes, subtle grain and offset-print texture. Color palette: textured warm cream, deep cobalt, coral red, golden yellow, mint green, small sky-blue accents. Warm dignified adults, contemporary everyday Japan, inclusive Japanese colleagues and diverse South/Southeast Asian adult workers. Composition/framing: square full-bleed artwork, action and all relevant hands/props within the central 75% so it survives a card crop; careful anatomy. Constraints: original illustration, no text of any kind, no letters, no numbers, no logos, no watermark, no UI frames, no decorative borders; no childish chibi proportions, no photorealism. Each scene should feel like a distinct moment, not generic people talking at a desk.\nPrimary request: An adult careworker asks permission at an elderly resident's room door before entering. Scene/backdrop: contemporary Japanese care-home corridor and open doorway in quiet morning light, a small glimpse of cozy room. Subject/action: Southeast Asian female careworker in mint scrub top and cobalt trousers stays outside the threshold, one hand lightly raised in a polite small knock, other hand holding a folded cream towel at waist; elderly Japanese woman in a coral house cardigan sits inside near the open doorway, smiles and lifts her open hand welcomingly. Composition: wider standing three-quarter view, vertical door jamb separates outside and inside, the respectful doorway exchange central. Natural adult proportions, neither medical bed nor medical equipment. No room numbers or door signs."
+    },
+    {
+      "key": "care-drink",
+      "src": "assets/care-drink.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 42%",
+      "originalSha256": "14e15d33d9dba50341dba74243c8d1f4d8dae0d34f0c94cbfe4344e1503d722b",
+      "webpSha256": "c81f0df8184ce921532dc67f7577c1001ba834bc186ffc4307ca11f4de6203d6",
+      "prompt": "Use case: illustration-story. Asset type: original square narrative illustration for a Japanese dialect learning website, 1024x1024. Style/medium: sophisticated joyful Japanese editorial risograph and cut-paper illustration; confident bold cobalt ink contours, expressive friendly adult faces, layered matte shapes, subtle grain and offset-print texture. Color palette: textured warm cream, deep cobalt, coral red, golden yellow, mint green, small sky-blue accents. Warm dignified adults, contemporary everyday Japan, inclusive Japanese colleagues and diverse South/Southeast Asian adult workers. Composition/framing: square full-bleed artwork, action and all relevant hands/props within the central 75% so it survives a card crop; careful anatomy. Constraints: original illustration, no text of any kind, no letters, no numbers, no logos, no watermark, no UI frames, no decorative borders; no childish chibi proportions, no photorealism. Each scene should feel like a distinct moment, not generic people talking at a desk.\nPrimary request: An elderly Japanese man chooses a drink with a South Asian female careworker. Scene/backdrop: a bright care-home sitting room in early summer; soft window silhouettes and one plant. Subject/action: elderly man in a coral cardigan sits in a mustard-yellow armchair, gently points toward the mint cup on a small tray; adult careworker in cobalt scrubs crouches attentively at his level, smiling and holding the tray with two different unbranded cups, cream and mint. Composition: intimate diagonal close-medium view, both faces and the choice gesture prominent, cups center foreground. Elder looks capable and engaged. Calm, welcoming sunlight."
+    },
+    {
+      "key": "factory-inspect",
+      "src": "assets/factory-inspect.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 42%",
+      "originalSha256": "55d202936d85d70189f9442a8301208a1457f2e6ddcb500dde7f5afc9a3e9d44",
+      "webpSha256": "76b7fae13298856d63463c41a07e5c75341d7d49b4cf5451022377e5959efab9",
+      "prompt": "Use case: illustration-story. Asset type: original square narrative illustration for a Japanese dialect learning website, 1024x1024. Style/medium: sophisticated joyful Japanese editorial risograph and cut-paper illustration; confident bold cobalt ink contours, expressive friendly adult faces, layered matte shapes, subtle grain and offset-print texture. Color palette: textured warm cream, deep cobalt, coral red, golden yellow, mint green, small sky-blue accents. Warm dignified adults, contemporary everyday Japan, inclusive Japanese colleagues and diverse South/Southeast Asian adult workers. Composition/framing: square full-bleed artwork, action and all relevant hands/props within the central 75% so it survives a card crop; careful anatomy. Constraints: original illustration, no text of any kind, no letters, no numbers, no logos, no watermark, no UI frames, no decorative borders; no childish chibi proportions, no photorealism. Each scene should feel like a distinct moment, not generic people talking at a desk.\nPrimary request: Two adult factory coworkers in PPE inspect the label area of a carton together. Scene/backdrop: clean factory packing station, mint metal shelf and simple stacked cartons, no machines in use. Subject/action: Japanese woman with short dark hair and Southeast Asian man with warm brown skin wear cobalt work jackets, pale safety helmets, clear safety glasses and work gloves. One points to a pale label panel on a golden-brown carton; the other holds a blank clipboard and carefully checks it. Label contains only abstract tiny rectangular cobalt blocks, absolutely no readable symbols or digits. Composition: close slightly low three-quarter viewpoint of faces and gloved pointing hands with carton at center, practical focused expressions and kind collegial confidence. Industrial scene unmistakable, no hazardous activity."
+    },
+    {
+      "key": "factory-path",
+      "src": "assets/factory-path.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 42%",
+      "originalSha256": "90f5fddbf52d0a4a6639aec7b96bc39af4c678087dfc119f1bca90a1e574b91f",
+      "webpSha256": "1de15fc07a65425e8dd171bf1c341b6affbea961282fbd1546a73d880b3d773b",
+      "prompt": "Use case: illustration-story. Asset type: original square narrative illustration for a Japanese dialect learning website, 1024x1024. Style/medium: sophisticated joyful Japanese editorial risograph and cut-paper illustration; confident bold cobalt ink contours, expressive friendly adult faces, layered matte shapes, subtle grain and offset-print texture. Color palette: textured warm cream, deep cobalt, coral red, golden yellow, mint green, small sky-blue accents. Warm dignified adults, contemporary everyday Japan, inclusive Japanese colleagues and diverse South/Southeast Asian adult workers. Composition/framing: square full-bleed artwork, action and all relevant hands/props within the central 75% so it survives a card crop; careful anatomy. Constraints: original illustration, no text of any kind, no letters, no numbers, no logos, no watermark, no UI frames, no decorative borders; no childish chibi proportions, no photorealism. Each scene should feel like a distinct moment, not generic people talking at a desk.\nPrimary request: Two adult coworkers notice cartons blocking a factory walkway and discuss clearing the path. Scene/backdrop: bright organized Japanese warehouse, yellow floor lane markings and mint storage shelves receding in perspective; no machinery at all. Subject/action: Japanese adult woman in coral work jacket and Southeast Asian adult man in cobalt work jacket, pale hard hats, clear safety glasses and work gloves stand safely at the end of a yellow marked aisle. Three plain kraft cartons visibly obstruct the route at center lower half; woman gestures openly toward the obstruction and man nods, neither operating anything or stepping over boxes. Composition: wider high three-quarter view with whole workers from knees up, strong diagonal lane leading to central boxes, focus on noticing a practical obstacle. Calm constructive expressions, no text on floor or cartons."
+    },
+    {
+      "key": "factory-report",
+      "src": "assets/factory-report.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 44%",
+      "originalSha256": "2d89c6834bc4faf8e1fa5628edb85c16b7ec03b7804908fe114e6d7f222f910d",
+      "webpSha256": "ed22a42e25ea2865a4c2e931bafbde25e3c010b1593674a947fe5f99a1409dea",
+      "prompt": "Use case: illustration-story. Asset type: original square narrative illustration for a Japanese dialect learning website, 1024x1024. Style/medium: sophisticated joyful Japanese editorial risograph and cut-paper illustration; confident bold cobalt ink contours, expressive friendly adult faces, layered matte shapes, subtle grain and offset-print texture. Color palette: textured warm cream, deep cobalt, coral red, golden yellow, mint green, small sky-blue accents. Warm dignified adults, contemporary everyday Japan, inclusive Japanese colleagues and diverse South/Southeast Asian adult workers. Composition/framing: square full-bleed artwork, action and all relevant hands/props within the central 75% so it survives a card crop; careful anatomy. Constraints: original illustration, no text of any kind, no letters, no numbers, no logos, no watermark, no UI frames, no decorative borders; no childish chibi proportions, no photorealism. Each scene should feel like a distinct moment, not generic people talking at a desk.\nPrimary request: An adult factory coworker calmly reports torn packaging to a colleague. Scene/backdrop: clean Japanese factory packing area, simple cream wall and mint shelf in afternoon. Subject/action: South Asian adult woman in mint work jacket, pale hard hat, clear protective glasses and cream gloves points with one gloved fingertip to an obvious tear in the coral-and-cream outer wrapping around a rectangular package on a waist-high packing table. Japanese adult male supervisor in cobalt jacket and same PPE leans forward thoughtfully, one hand open in acknowledgment, serious but calm and kind. Composition: side-on medium view; central package tear is visible as a jagged flap with exposed kraft-brown underneath; faces above, all gesture hands clearly present. No frightening accident, no machines, no written labels. Distinct clothing and setting from inspection scene."
+    },
+    {
+      "key": "farm-crates",
+      "src": "assets/farm-crates.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 48%",
+      "originalSha256": "d2b247419ac9164321c7257a55baa7509201aad08e125939ed17bf276e2dd0db",
+      "webpSha256": "1f09dc8c07adc14269da47365af14ce20354dd8f69084ecb03ce4d2829c327a3",
+      "prompt": "Use case: illustration-story. Asset type: original square narrative illustration for a Japanese dialect learning website, 1024x1024. Style/medium: sophisticated joyful Japanese editorial risograph and cut-paper illustration; confident bold cobalt ink contours, expressive friendly adult faces, layered matte shapes, subtle grain and offset-print texture. Color palette: textured warm cream, deep cobalt, coral red, golden yellow, mint green, small sky-blue accents. Warm dignified adults, contemporary everyday Japan, inclusive Japanese colleagues and diverse South/Southeast Asian adult workers. Composition/framing: square full-bleed artwork, action and all relevant hands/props within the central 75% so it survives a card crop; careful anatomy. Constraints: original illustration, no text of any kind, no letters, no numbers, no logos, no watermark, no UI frames, no decorative borders; no childish chibi proportions, no photorealism. Each scene should feel like a distinct moment, not generic people talking at a desk.\nPrimary request: Two adult farmworkers move one vegetable crate together cooperatively. Scene/backdrop: Japanese farm outdoor packing area during golden late-summer afternoon, barn edge and simple garden rows behind. Subject/action: South Asian adult woman in mint work shirt, cobalt trousers and cloth sun hat and Japanese adult man in coral shirt and cobalt overalls each grip one end handle of a single golden-yellow slatted crate filled with green cabbages; they carry it between them with relaxed straight backs and clear teamwork. Composition: wider low three-quarter side viewpoint showing both workers from head to below knees, crate and all four gripping hands centrally visible; motion implied by small staggered steps. No machinery, no vehicles, no text, no baskets held individually. Two people lifting one crate is unmistakable."
+    },
+    {
+      "key": "farm-harvest",
+      "src": "assets/farm-harvest.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "309091cd635233517d7abbeb95d4d2914060d021340d56887302e34083881f7e",
+      "webpSha256": "62fca35c15ec1abec2b93cd4f62af324d58f32e5f1e52eee84f1ad97ba15bf31",
+      "prompt": "Use case: illustration-story. Asset type: original square narrative illustration for a Japanese dialect learning website, 1024x1024. Style/medium: sophisticated joyful Japanese editorial risograph and cut-paper illustration; confident bold cobalt ink contours, expressive friendly adult faces, layered matte shapes, subtle grain and offset-print texture. Color palette: textured warm cream, deep cobalt, coral red, golden yellow, mint green, small sky-blue accents. Warm dignified adults, contemporary everyday Japan, inclusive Japanese colleagues and diverse South/Southeast Asian adult workers. Composition/framing: square full-bleed artwork, action and all relevant hands/props within the central 75% so it survives a card crop; careful anatomy. Constraints: original illustration, no text of any kind, no letters, no numbers, no logos, no watermark, no UI frames, no decorative borders; no childish chibi proportions, no photorealism. Each scene should feel like a distinct moment, not generic people talking at a desk.\nPrimary request: Two adult farmworkers compare a vegetable harvest example together. Scene/backdrop: Japanese market garden on a crisp clear spring morning, rows of leafy green crops, distant gentle hills and cream clouds. Subject/action: Japanese woman in a wide straw hat, coral long-sleeved work shirt and cobalt overalls holds a freshly harvested white daikon with leaves upright in both gloved hands as the example. Southeast Asian adult man in a cobalt cap, golden-yellow shirt and mint apron holds another daikon beside it and compares their sizes, friendly engaged expressions. Composition: waist-up view in the field, vegetables raised centrally side-by-side with all hands visible; shallow diagonal crop rows and abundant sky, no tables or desks. Natural adults and practical field clothes, plain unbranded tools avoided."
+    },
+    {
+      "key": "home-key",
+      "src": "assets/home-key.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "697b30b277cca3f633d07a80560304f7cb96394a1084fbbff2c469147bf93029",
+      "webpSha256": "4e9771d9e40b6ba66daa5c19bb62ab91e22e578c72b0e593ea5af30014487230",
+      "prompt": "Use case: illustration-story. Asset type: original square narrative illustration for a Japanese dialect learning website, 1024x1024. Style/medium: sophisticated joyful Japanese editorial risograph and cut-paper illustration; confident bold cobalt ink contours, expressive friendly adult faces, layered matte shapes, subtle grain and offset-print texture. Color palette: textured warm cream, deep cobalt, coral red, golden yellow, mint green, small sky-blue accents. Warm dignified adults, contemporary everyday Japan, inclusive Japanese colleagues and diverse South/Southeast Asian adult workers. Composition/framing: square full-bleed artwork, action and all relevant hands/props within the central 75% so it survives a card crop; careful anatomy. Constraints: original illustration, no text of any kind, no letters, no numbers, no logos, no watermark, no UI frames, no decorative borders; no childish chibi proportions, no photorealism. Each scene should feel like a distinct moment, not generic people talking at a desk.\nPrimary request: An adult traveler returns a plain hotel room key to a hotel reception clerk at the desk in a warm morning. Scene/backdrop: welcoming small contemporary Japanese hotel reception, cream wooden counter, warm morning sunlight through side window, mint plant, soft coral wall and simple cobalt luggage near traveler. Subject/action: Southeast Asian adult male traveler in a coral casual shirt and cobalt trousers holds a small plain brass key with an entirely blank cream key tag and hands it across the desk to a Japanese adult female reception clerk in mint blazer over cream blouse; she reaches with an open hand to receive the key, both smile courteously. Composition: intimate close medium view from a slightly lower counter-height perspective, handing-over key and receiving hand occupy center foreground with warm adult faces above, counter diagonal across lower third. The traditional physical key is clearly visible and proportionate, not a keycard; no card reader, no booking paper, no calendar, no text, no room number, no logos, no signage, no watermark. Distinct from the earlier reservation confirmation scene."
+    },
+    {
+      "key": "home-rubbish",
+      "src": "assets/home-rubbish.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "3f5bdc2a2125b1bd4e443af7e7d3e491d2a963ca8d39cbf7ce6c611e99f3e7b7",
+      "webpSha256": "9f610432d99ff7a55efe82e9cea03942785fe04f587c457b705f19c9a6186cb1",
+      "prompt": "Use case: illustration-story. Asset type: original square narrative illustration for a Japanese dialect learning website, 1024x1024. Style/medium: sophisticated joyful Japanese editorial risograph and cut-paper illustration; confident bold cobalt ink contours, expressive friendly adult faces, layered matte shapes, subtle grain and offset-print texture. Color palette: textured warm cream, deep cobalt, coral red, golden yellow, mint green, small sky-blue accents. Warm dignified adults, contemporary everyday Japan, inclusive Japanese colleagues and diverse South/Southeast Asian adult workers. Composition/framing: square full-bleed artwork, action and all relevant hands/props within the central 75% so it survives a card crop; careful anatomy. Constraints: original illustration, no text of any kind, no letters, no numbers, no logos, no watermark, no UI frames, no decorative borders; no childish chibi proportions, no photorealism. Each scene should feel like a distinct moment, not generic people talking at a desk.\nPrimary request: An adult tenant and building manager compare a totally blank collection calendar sheet at a tidy apartment recycling station. Scene/backdrop: clean sheltered residential recycling area in Japan, cream tile wall and three organized bins with distinct mint, coral and cobalt lids, neatly sorted glass bottles, flattened cardboard and plain bags visible in separate bins, no labels or writing anywhere. Subject/action: Southeast Asian adult female tenant in mint cardigan and cobalt trousers holds a large cream calendar sheet showing only an empty cobalt rectangular grid; Japanese adult male building manager in cobalt work jacket and cream trousers points gently to a blank cell while explaining, both focused and friendly. Composition: close slightly elevated three-quarter view with faces across upper half, blank sheet and pointing hand central, sorted bins clearly visible behind and below; calm practical everyday conversation. No text, no logos, no numbers, no readable symbols on bins or calendar."
+    },
+    {
+      "key": "home-viewing",
+      "src": "assets/home-viewing.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 43%",
+      "originalSha256": "85eb7c66ca4213c13b44042967dc68103bfadccd7eeb5557cb0710887b58ef3c",
+      "webpSha256": "e7bee966f81e2aada128c297eab7f8b686ca6eb8ca5be6664a229d4af544b057",
+      "prompt": "Use case: illustration-story. Asset type: original square narrative illustration for a Japanese dialect learning website, 1024x1024. Style/medium: sophisticated joyful Japanese editorial risograph and cut-paper illustration; confident bold cobalt ink contours, expressive friendly adult faces, layered matte shapes, subtle grain and offset-print texture. Color palette: textured warm cream, deep cobalt, coral red, golden yellow, mint green, small sky-blue accents. Warm dignified adults, contemporary everyday Japan, inclusive Japanese colleagues and diverse South/Southeast Asian adult workers. Composition/framing: square full-bleed artwork, action and all relevant hands/props within the central 75% so it survives a card crop; careful anatomy. Constraints: original illustration, no text of any kind, no letters, no numbers, no logos, no watermark, no UI frames, no decorative borders; no childish chibi proportions, no photorealism. Each scene should feel like a distinct moment, not generic people talking at a desk.\nPrimary request: A Japanese adult property agent shows an ordinary empty Japanese rental apartment to a prospective adult tenant. Scene/backdrop: a clean modest unfurnished apartment, warm cream walls, pale wood floor, a sliding balcony window opens onto a quiet residential view, mint curtain pushed to one side, sunlit room with no furniture or damage. Subject/action: Japanese adult female property agent in coral blazer, cream blouse and cobalt trousers stands near the threshold and points with an open hand toward the beautiful rectangle of sunlight on the empty floor; South Asian adult male prospective tenant in mint casual jacket and cobalt trousers looks around thoughtfully with a warm interested smile, holding a plain unmarked cream folder at his side. Composition: broad three-quarter view from the apartment doorway, both adults seen almost full length toward left/center and sunlit open room occupies right center, clear showing-a-property interaction. No kitchen sink, no leaking tap, no repair problem, no text or numbers, no signs, no logos."
+    },
+    {
+      "key": "hotel-desk",
+      "src": "assets/hotel-desk.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 40%",
+      "originalSha256": "c116ff52dcbada560af0f1098cad140b1d2c59e9f8733bd0f88714234f2d2de7",
+      "webpSha256": "5dab8ce4b30c5ea7e61f48a795585d5a565ab7f4b9f4764fcf21392901ac2ca4",
+      "prompt": "Use case: illustration-story. Asset type: original square narrative illustration for a Japanese dialect learning website, 1024x1024. Style/medium: sophisticated joyful Japanese editorial risograph and cut-paper illustration; confident bold cobalt ink contours, expressive friendly adult faces, layered matte shapes, subtle grain and offset-print texture. Color palette: textured warm cream, deep cobalt, coral red, golden yellow, mint green, small sky-blue accents. Warm dignified adults, contemporary everyday Japan, inclusive Japanese colleagues and diverse South/Southeast Asian adult workers. Composition/framing: square full-bleed artwork, action and all relevant hands/props within the central 75% so it survives a card crop; careful anatomy. Constraints: original illustration, no text of any kind, no letters, no numbers, no logos, no watermark, no UI frames, no decorative borders; no childish chibi proportions, no photorealism. Each scene should feel like a distinct moment, not generic people talking at a desk.\nPrimary request: An adult hotel receptionist and guest confirm a reservation together. Scene/backdrop: intimate contemporary Japanese hotel lobby in early evening, warm cream curved reception counter, coral pendant light, small mint plant and cobalt luggage behind guest. Subject/action: Southeast Asian adult female receptionist wearing a cobalt blazer, cream blouse and golden-yellow neck scarf stands behind counter, politely indicating an entirely blank cream reservation card or sheet; Japanese adult male guest in mint casual jacket holds an unbranded coral smartphone with entirely blank screen and listens with an agreeable smile. Composition: medium three-quarter guest-side viewpoint, faces and the confirm gesture and sheet at center; receptionist's small blank name badge no text. Clear hospitality professional scene, no signs, no lettering on screen, paper or walls."
+    },
+    {
+      "key": "hotel-towels",
+      "src": "assets/hotel-towels.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 45%",
+      "originalSha256": "8293de2c8cf2ba53ea76f8f8575590602007660e07177687fb466e2f80a8840a",
+      "webpSha256": "8ea74d0f65d60c40e4f55769117be440f5b7b9a6a3831483a173e639009b7e8a",
+      "prompt": "Use case: illustration-story. Asset type: original square narrative illustration for a Japanese dialect learning website, 1024x1024. Style/medium: sophisticated joyful Japanese editorial risograph and cut-paper illustration; confident bold cobalt ink contours, expressive friendly adult faces, layered matte shapes, subtle grain and offset-print texture. Color palette: textured warm cream, deep cobalt, coral red, golden yellow, mint green, small sky-blue accents. Warm dignified adults, contemporary everyday Japan, inclusive Japanese colleagues and diverse South/Southeast Asian adult workers. Composition/framing: square full-bleed artwork, action and all relevant hands/props within the central 75% so it survives a card crop; careful anatomy. Constraints: original illustration, no text of any kind, no letters, no numbers, no logos, no watermark, no UI frames, no decorative borders; no childish chibi proportions, no photorealism. Each scene should feel like a distinct moment, not generic people talking at a desk.\nPrimary request: An adult hotel housekeeper delivers folded towels at a guest room door. Scene/backdrop: quietly stylish Japanese hotel corridor and open room doorway, cobalt door frame, cream wall and warm golden light from the room. Subject/action: South Asian adult female housekeeper in coral polo, cobalt apron and mint trousers holds a neat stack of three cream folded towels with both hands, extending them politely toward an adult Japanese female guest with shoulder-length dark hair wearing a mint blouse standing just inside the doorway, guest reaches with both hands to receive the towels and smiles. Composition: intimate side-view threshold exchange, towel stack and four receiving/offering hands centered, shoulders and faces above; a small housekeeping cart glimpsed at lower left only. No room numbers, no hotel logos, no signage or text. Clearly towels, no medical setting."
+    },
+    {
+      "key": "office-deadline",
+      "src": "assets/office-deadline.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 20%",
+      "originalSha256": "d85b4d4f1b157cf18dbd200ecacbd93044722ce8c593d5df69ab702b2785d30e",
+      "webpSha256": "ba95c77fbfd172272ee6ce31482e652167ea8b1a4e6cd6e8c56c0cffc7e42d55",
+      "prompt": "Use case: illustration-story. Asset type: original square narrative illustration for a Japanese dialect learning website, 1024x1024. Style/medium: sophisticated joyful Japanese editorial risograph and cut-paper illustration; confident bold cobalt ink contours, expressive friendly adult faces, layered matte shapes, subtle grain and offset-print texture. Color palette: textured warm cream, deep cobalt, coral red, golden yellow, mint green, small sky-blue accents. Warm dignified adults, contemporary everyday Japan, inclusive Japanese colleagues and diverse South/Southeast Asian adult workers. Composition/framing: square full-bleed artwork, action and all relevant hands/props within the central 75% so it survives a card crop; careful anatomy. Constraints: original illustration, no text of any kind, no letters, no numbers, no logos, no watermark, no UI frames, no decorative borders; no childish chibi proportions, no photorealism. Each scene should feel like a distinct moment, not generic people talking at a desk.\nPrimary request: Two adult office coworkers plan work using a blank calendar. Scene/backdrop: airy Japanese office meeting nook on a rainy late-winter afternoon, cream wall, blue-gray rain window and a single mint plant. Subject/action: Japanese adult woman with short black hair in a coral knit sweater stands beside a small freestanding monthly calendar whose cells are entirely blank, no headings or numbers; Southeast Asian adult male colleague in a mint overshirt over cream T-shirt sits with blank notepad, gently points to one central calendar cell as she considers the schedule. Calendar shows only a simple cobalt rectangular grid. Composition: wider three-quarter standing/sitting asymmetric view, faces, calendar and gestures central; uncluttered small meeting table, thoughtful warm cooperation, no computer screens. Calendar is the clear narrative object. No text or digits anywhere."
+    },
+    {
+      "key": "office-priority",
+      "src": "assets/office-priority.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 36%",
+      "originalSha256": "bd7dc1697daa8bf00dc49362a246d3bdb1203c64a85dc93481d994edd306c4a3",
+      "webpSha256": "df9990f73f5268a9c6a60a555107d854a255bd396f85ff0140d543cb4d6cad64",
+      "prompt": "Use case: illustration-story. Asset type: original square narrative illustration for a Japanese dialect learning website, 1024x1024. Style/medium: sophisticated joyful Japanese editorial risograph and cut-paper illustration; confident bold cobalt ink contours, expressive friendly adult faces, layered matte shapes, subtle grain and offset-print texture. Color palette: textured warm cream, deep cobalt, coral red, golden yellow, mint green, small sky-blue accents. Warm dignified adults, contemporary everyday Japan, inclusive Japanese colleagues and diverse South/Southeast Asian adult workers. Composition/framing: square full-bleed artwork, action and all relevant hands/props within the central 75% so it survives a card crop; careful anatomy. Constraints: original illustration, no text of any kind, no letters, no numbers, no logos, no watermark, no UI frames, no decorative borders; no childish chibi proportions, no photorealism. Each scene should feel like a distinct moment, not generic people talking at a desk.\nPrimary request: Two adult office coworkers sort two folders to decide work priority. Scene/backdrop: contemporary Japanese office at a warm sunny late-spring morning, cream desk, understated cobalt shelf and coral wall art with geometric shapes only. Subject/action: South Asian adult woman with wavy shoulder-length dark hair wearing a cobalt blouse and Japanese adult man with neat dark hair, cream shirt and mint cardigan sit across the corner of the desk. Exactly two large closed folders, coral and golden yellow, lie side by side at the center; woman slides the coral folder forward with one hand while man indicates the golden-yellow folder with an open hand, both thoughtfully discussing the order. Composition: elevated three-quarter near-overhead viewpoint emphasizing the two contrasting folders and purposeful hands, adult faces in upper corners. No paper piles, no extra folders, no calendar, no monitor, no printed symbols. Different composition and clothing than office deadline."
+    },
+    {
+      "key": "regional-hokkaido-work",
+      "src": "assets/regional-hokkaido-work.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 40%",
+      "originalSha256": "6eacf0c3260a7bcdfc49b11dad837345a75739f736e198ee13c44163e506dde6",
+      "webpSha256": "7177ff70dad4483b2b7a21bf091b1d0bc7775065e307fa401d4a487496e5108b",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: A small warmly lit practical workshop on a cold afternoon in northern Japan, modest wood workbench, orderly hand tools, snowy window. A Japanese male craftsman about 58 wearing a mustard cardigan under a simple navy apron receives a single ordinary hand tool being returned by a South Asian woman about 29 wearing a coral long-sleeved work shirt. Waist-up diagonal view with both smiling and looking at one another, their natural hands meeting safely above the workbench; no machinery in use. Different faces, clean mature proportions. Warm interior, snowy blue outdoors."
+    },
+    {
+      "key": "regional-hokkaido-town",
+      "src": "assets/regional-hokkaido-town.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "c141318bfeb2ada4d6d531141a7c1ea983a6044b8fd2af04a31c964fc9f3c90a",
+      "webpSha256": "9917ac0034a3b34aaff224c1ca635d954e04fec25d4f2dececead3ec7373b039",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: A quiet contemporary snowy neighborhood bus stop in northern Japan, plain covered shelter with no text and low houses beyond, shoveled path and snow piled at edges. A Japanese woman about 64 with short gray hair, mint winter coat and cream scarf chats with a Southeast Asian man about 31 in a cobalt winter jacket, carrying an everyday tote. Medium waist-up 3/4 view, bodies angled toward each other, small relaxed mittened hand gesture between them. Modest suburban setting, no landmarks; candid friendly faces, subtly snowing sky."
+    },
+    {
+      "key": "regional-hokkaido-table",
+      "src": "assets/regional-hokkaido-table.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "07f675babc5ebac37252df2d7737afd206c0b449488f9e58252b2fb642bf843f",
+      "webpSha256": "b6b280ad47cbb61b1efda8923247d1251ce0121f77450ca3495ccd81468d7d7c",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: Warm soup lunch at a compact neighborhood eatery in northern Japan, wood tabletop, two plain bowls of soup with vegetables, cream mugs, frosty window. A Japanese woman about 46 with tied-back dark hair in a cobalt knit top and a South Asian man about 35 in a coral cardigan sit at adjacent sides of the table, speaking warmly while holding spoons naturally. Slightly elevated intimate diagonal view that clearly shows both expressive mature faces and hands near centered soup bowls. Soft steam, warm mustard pendant glow."
+    },
+    {
+      "key": "regional-tohoku-work",
+      "src": "assets/regional-tohoku-work.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 40%",
+      "originalSha256": "4eefab34fa2588f40d414846ebf00bfe531445017d3b748cc7e61ce1f93e17fd",
+      "webpSha256": "5928c523c5a3296fd49d862935eb38a7ce12f2378156b7b09afeb7662cb6da77",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: Rural apple packing shed in northern Honshu, plain wooden crates of red apples on a sorting table, timber beams, soft autumn daylight through open doorway. A Japanese woman about 61 with gray hair in a blue work apron and a Southeast Asian man about 26 wearing a mint overshirt are coworkers chatting while gently placing apples in an open crate. Medium frontal triangular composition from slightly above table, their mature faces and useful hands close to center. Calm real working environment, no active machinery, no signs."
+    },
+    {
+      "key": "regional-tohoku-town",
+      "src": "assets/regional-tohoku-town.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 35%",
+      "originalSha256": "229d483a23ce3dfbfd3c2a557b12612c6bd2a24de6b281e46f1132cbf1013d3f",
+      "webpSha256": "d0245d1c4ec5c099c156aa5f2483c914a416da028b397164f532635c0b1e2b88",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: Modest contemporary house porch on an autumn afternoon in rural northern Honshu, a plain doorway, simple potted plants, warm leaves beyond. A Japanese man about 68 with short gray hair and a cream sweater warmly greets a South Asian woman about 34 in a coral light jacket arriving with a simple cloth tote. Medium 3/4 side view, both faces angled toward each other, a relaxed open-palm greeting near center. Comfortable adults standing at similar height; everyday house, no costumes, no landmarks."
+    },
+    {
+      "key": "regional-tohoku-table",
+      "src": "assets/regional-tohoku-table.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "006a72c5b3e404a7410b81bcc9be43a836d96bfe90192fd4b41462d63ed47af0",
+      "webpSha256": "d9bb027678d6a9ebe7cd0a2bf4a8bf60eb270fc86dae02ee880079cbf79c03b9",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: A cozy lived-in home in northern Honshu, modest low dining table, plain ceramic teapot and two cups, a simple window and book shelf behind. A Japanese woman about 39 with a chin-length dark bob wearing mustard and a Southeast Asian woman about 52 with dark brown skin and short wavy hair wearing mint sit together chatting over tea. Three-quarter seated diagonal view, elbows relaxed, natural hands holding cups near center; thoughtful smiles, believable adult faces. Tactile warm domestic atmosphere with tiny autumn leaf glimpse outside."
+    },
+    {
+      "key": "regional-kanto-work",
+      "src": "assets/regional-kanto-work.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 30%",
+      "originalSha256": "a1580ced47c2251d662ba17c0b2b1fc963beb1af142ada809e8925ed2a01c1be",
+      "webpSha256": "2a4cad57a7afb6719370564c539395907b8a421c739f9297d05f9d26d60e36fe",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: Contemporary urban office breakroom in the Kanto region, plain printer, cups and a small stack of blank papers on a waist-high counter. A Japanese woman about 44 with neat short hair wearing a mustard office cardigan and a Southeast Asian man about 27 with warm brown skin and round glasses wearing a cobalt shirt talk about a sheet of paper he holds. Medium side-on view with the printer to one edge; one woman points gently to the blank paper, their hands and expressive adult faces central, normal fingers and limbs. Low office buildings glimpsed through simple window; no text on paper or printer."
+    },
+    {
+      "key": "regional-kanto-town",
+      "src": "assets/regional-kanto-town.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 35%",
+      "originalSha256": "05a596d9839f08f0be096e79952ad248f76ed7e46afca1aefdb458dc8d2157f5",
+      "webpSha256": "b7c932fd2572939b8acdeef2a840f44c97c0f100eea7bcf4915eee3c0157405e",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: Neighbors meet beside a modest contemporary residential corner shop in an urban Kanto neighborhood, shop baskets, green plant, bicycle and plain unmarked awning, small homes beyond. A Japanese man about 60 in mint light jacket and a South Asian woman about 33 in mustard top with a plain grocery bag chat by the entrance. Medium diagonal shoulder-level viewpoint, his relaxed open hand gesture and her bag-carrying hand visible near center; friendly mature expressions and contemporary everyday clothing. No signage or branded goods, no landmarks."
+    },
+    {
+      "key": "regional-kanto-table",
+      "src": "assets/regional-kanto-table.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "961a1a4ac4feb85f0bf96dc3905f33e87f4c07f4be29087423ac60afb16d124c",
+      "webpSha256": "b50206b50180f07e17c63cffdd1f8e84dd34214f79c9970f26579518846952b0",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: Contemporary urban cafe in the Kanto region, small round wood table, plain coffee cups, leafy indoor plant and broad window with softly simplified city buildings. A Japanese woman about 28 in a coral blouse with long dark hair and a Southeast Asian woman about 47 with short wavy dark hair in a cobalt blazer sit at adjacent sides, chatting with warm attentive expressions. Intimate eye-level medium composition, one holding cup while the other gestures gently with an open hand, hands and faces centrally framed. Adult editorial elegance, no menus or text."
+    },
+    {
+      "key": "regional-hokuriku-work",
+      "src": "assets/regional-hokuriku-work.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 35%",
+      "originalSha256": "4cb2dc721df346e5655ea655fe91bb4ffef1bf7aec5c4885dab2d252ef9b1a36",
+      "webpSha256": "9a7a98fffb914d4224056d260b9b8542db22eb912c955ba95543cdc7b95ef092",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: A small contemporary craft studio on Japan's coastal Hokuriku side, workbench, shelves of unadorned craft materials, soft window light. A Japanese man about 53 with lightly graying hair in a cobalt work apron and a South Asian woman about 30 with dark hair tied in a low ponytail in a mint work shirt chat while wrapping a simple rectangular parcel in cream paper with plain string. Slightly high diagonal angle, two natural sets of hands and parcel grouped near center, mature expressive faces just above. Tidy calm scene, no active machinery, no text, no brands."
+    },
+    {
+      "key": "regional-hokuriku-town",
+      "src": "assets/regional-hokuriku-town.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "88cd9367ac3aeb778ca87fb7306f836a3fbec52d61a1d70987bb6cbaab89f405",
+      "webpSha256": "2e7d17e61c8a2e97d5f234eae985ac14a14885e4e88dfc98a7e53b6eaef24a0c",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: A rainy contemporary covered neighborhood street in the Hokuriku region, simple roof eaves, puddles and low shops with blank facades. A Japanese woman about 66 with short gray hair in a coral raincoat and a Southeast Asian man about 36 in a mint jacket stand under a canopy chatting. Each carries a closed ordinary umbrella held safely downward; handles and small natural hand gesture central. Medium waist-up view from slightly off-center, rain outside canopy, textured wet blue paving and warm cream storefronts. No lettering, no landmarks."
+    },
+    {
+      "key": "regional-hokuriku-table",
+      "src": "assets/regional-hokuriku-table.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "59739e1f59d7c6ec70b919e25b9606d34e135a3f9fc33d7fba9c83ffa88a3d54",
+      "webpSha256": "8dc0657b142a5a6585bfc48cb8d0ead47dfe2b31d1e07024baa4aa13d65c0f25",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: Quiet dining room of a simple contemporary small inn in Hokuriku, low rectangular wood table, plain bowls and tea cups, soft curtain and garden window. A Japanese woman about 58 with short silver-flecked hair wearing mustard and a South Asian man about 42 with a neat beard wearing cobalt sit adjacent, speaking calmly over a simple dinner. Slightly elevated three-quarter view, two expressive adult faces and natural hands around bowls grouped in central band; discreet steam and gentle evening glow. Everyday clothing, no ceremonial costumes, no text, no landmarks."
+    },
+    {
+      "key": "regional-koshinetsu-work",
+      "src": "assets/regional-koshinetsu-work.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 40%",
+      "originalSha256": "b8df04888efc6a410e892485b44f9f153d638601c33ad00dd11b6c547d77e8f5",
+      "webpSha256": "9fd579063494031bfe61e716609619c89a2f1978a1110e2fe5b969426e05603d",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: Vegetable packing shed in a contemporary rural highland neighborhood of Koshinetsu, practical packing table with open crates of carrots and leafy green vegetables, wood beams, distant softly drawn hills through doorway. A Japanese woman about 49 in a mustard work apron and a Southeast Asian man about 32 in a coral overshirt are coworkers chatting as they organize one crate together. Medium view at table height, faces turned toward each other, clearly separated natural hands placing vegetables near center. No machinery in operation, no text, no branded crate markings."
+    },
+    {
+      "key": "regional-koshinetsu-town",
+      "src": "assets/regional-koshinetsu-town.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 40%",
+      "originalSha256": "6bede7bdc9acdb5f92a730e1694a25158706f9c0ec5d0a6139774e8fe2bbff66",
+      "webpSha256": "ed6370b2125df8a3ed44553be3a519dbf419c054be8ede64a5c9368460dd8ccd",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: Modest highland bus stop in Koshinetsu, plain unmarked covered shelter, low contemporary houses, soft blue mountains behind, fresh early-summer green foliage. A Japanese man about 65 with short silver hair in a mint outdoor jacket chats with a South Asian woman about 30 in a mustard cardigan carrying a canvas bag. Medium waist-up side-on composition with neighbors angled toward one another, gentle conversational hand gestures centered. Atmospheric mountain air, no landmarks, no signs or lettering, no hiking costumes."
+    },
+    {
+      "key": "regional-koshinetsu-table",
+      "src": "assets/regional-koshinetsu-table.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 35%",
+      "originalSha256": "fe0ac253a615edefcf367f30a26f162cd3ad7daaeb6bde84667332686416e9bd",
+      "webpSha256": "2ff1200df4bd0880ab8c3eec23a474650633daef5b09d3d0ea8abe303a9f8f1a",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: Shared everyday home kitchen in Koshinetsu, simple wood table, ceramic bowls with rice and vegetables, plain kettle and cupboards, small window showing soft highland green. A Japanese woman about 63 with short gray hair wearing coral and a Southeast Asian woman about 28 with long black hair tied back wearing cobalt sit nearby, talking warmly as the older woman offers a plain bowl and the younger woman reaches gently to receive it. Three-quarter intimate seated view, central hands and bowl with believable fingers, adult faces directly above. Warm domestic detail, no text."
+    },
+    {
+      "key": "regional-tokai-work",
+      "src": "assets/regional-tokai-work.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 25%",
+      "originalSha256": "e42b0f2b31cf0ca87e730ce2dcd4a059cb17d70de0d33399a7c189db1914a1a0",
+      "webpSha256": "98499a0935fb3ded427447961ef81cee68e64f697eb737d2cc0eeaf37cf6ad6b",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: Safe stationary factory quality-inspection corner in contemporary Tokai, clean plain inspection table, stack of blank inspection papers and a few simple disconnected parts, inactive simplified factory equipment far behind. A Japanese man about 51 in a cobalt work shirt and a South Asian woman about 35 in a mint work shirt talk over blank inspection papers held at center. Both stand safely away from machines, relaxed natural hands, friendly mature expressions. Medium diagonal view, no operating machinery, no readable writing, no hazard drama, no logos, no helmets needed in this quiet office-like inspection area."
+    },
+    {
+      "key": "regional-tokai-town",
+      "src": "assets/regional-tokai-town.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 40%",
+      "originalSha256": "52b53608342c712d33e97604f01d3c4d784a9a1479601458f9ea87f3e1ecfb3d",
+      "webpSha256": "7d5b51eee1c2b77fd9fb87f053ad6f3b07e597e96c20a28cdb4ccb68ecb9cc73",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: Small contemporary shopping arcade in the Tokai region, pale covered roof, low unmarked shop facades, simple plant pot and baskets. A Japanese woman about 56 with short dark hair and light gray streaks wearing a mustard cardigan greets a Southeast Asian man about 29 in a coral casual shirt carrying a reusable grocery bag. Medium slight-low-angle view, neighbors naturally conversing with central eye contact and one small open-palmed gesture; faces mature, limbs believable. Warm lively but uncluttered arcade atmosphere with no other people, no signs or landmarks."
+    },
+    {
+      "key": "regional-tokai-table",
+      "src": "assets/regional-tokai-table.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "0048eda99af5ce870c30cf863d171af0d087c028a33241a308ce8b5029362876",
+      "webpSha256": "90356c25fd5e665d3489ecfe931a9efb2a3794bc35a9c7d283e7f919edc48bf3",
+      "prompt": "Use case: illustration-story. Asset type: square editorial illustration for a Japanese dialect learning site. Create one ORIGINAL square image, 1024x1024, no collage. Sophisticated hand-painted editorial risograph/cut-paper illustration with confident cobalt and dark indigo contour drawing, cream paper, coral, mustard yellow, mint and sky blue, tactile irregular print grain, subtle imperfect ink registration, nuanced expressive adult faces and believable adult anatomy. Contemporary everyday clothing, Japanese locals and South or Southeast Asian adult learners age 20–70, exactly 2 adults. Friendly natural conversational interaction. Fresh original composition, not a copy of any previous illustration. All faces and interacting hands fully visible and centrally composed within the middle 62% of image height for an eventual centered 16:10 crop; allow atmospheric surroundings at top and bottom. Full-bleed square art. No lettering, numbers, readable signs, text, logos, UI, speech bubbles, children, costumes or stereotypes. Regional setting is subtle contemporary atmosphere, not an identifiable real place. Scene: Contemporary workplace canteen in Tokai, plain rectangular table with trays, rice bowls, cups, large blue-framed window and simple chairs. A Japanese woman about 41 with shoulder-length hair wearing mint and a South Asian man about 47 with short hair and neat beard wearing mustard workwear share relaxed lunch conversation. Medium seated view from just above the table corner, both adult faces and natural hands central, one holds a spoon while other rests hand beside tray. Bright easy daytime mood, no company logos, no text, no machinery."
+    },
+    {
+      "key": "regional-chugoku-table",
+      "src": "assets/regional-chugoku-table.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "f7d08599f2e288a599238ee2bab4c398c282dea39fafbf9f95ba0a7127a35fe7",
+      "webpSha256": "7d1a59dec5b47b9f6cc5f9c1259e37dd6602fcd2c67343c4db26960d158bb7c8",
+      "prompt": "Use case: illustration-story. Asset type: original square editorial illustration for a Japanese dialect learning website, 1024 by 1024, opaque background. Sophisticated contemporary Japanese risograph and cut-paper visual style, confident cobalt blue ink outlines, warm cream paper, coral, sun yellow and mint colors, tactile subtle print grain and slight ink overlap; beautifully observed adult expressions and gestures, believable anatomy and five-finger hands. Natural modern Japanese and South or Southeast Asian adults, ages 20–70, ordinary contemporary clothing. Make a fresh original scene, not a copy of any existing image. All conversation faces and meaningful hands comfortably centered within middle 62% vertical band, safe for a centered 16:10 crop as well as square. No written text, letters, logos, branding, watermark, signs with writing, UI, speech bubbles, children, costumes, exaggerated stereotypes, or famous landmark. Subtle regional setting rather than literal real-location claim.\nScene: Warm contemporary household meal with three ADULT family members only: a Japanese man age 66 with white hair in a cream sweater, Japanese woman age 40 in a coral top, and Southeast Asian man age 34 in a mint shirt. The older man speaks with a modest hand gesture as the younger adults listen across a compact round dining table with simple shared vegetable dishes, rice bowls and mugs. Elevated three-quarter group view, heads and natural hands centrally arranged in a triangle. Quiet cobalt framed kitchen window, cream walls, yellow hanging lamp; ordinary home and no children."
+    },
+    {
+      "key": "regional-chugoku-town",
+      "src": "assets/regional-chugoku-town.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "38168687f8233ead72652af1252865ecbafded8292783ef6e3fbed196e8f01b4",
+      "webpSha256": "63f3731e50d201072a143f94b42f4eb088b78b52b9dffd116ddf886b0f8721e6",
+      "prompt": "Use case: illustration-story. Asset type: original square editorial illustration for a Japanese dialect learning website, 1024 by 1024, opaque background. Sophisticated contemporary Japanese risograph and cut-paper visual style, confident cobalt blue ink outlines, warm cream paper, coral, sun yellow and mint colors, tactile subtle print grain and slight ink overlap; beautifully observed adult expressions and gestures, believable anatomy and five-finger hands. Natural modern Japanese and South or Southeast Asian adults, ages 20–70, ordinary contemporary clothing. Make a fresh original scene, not a copy of any existing image. All conversation faces and meaningful hands comfortably centered within middle 62% vertical band, safe for a centered 16:10 crop as well as square. No written text, letters, logos, branding, watermark, signs with writing, UI, speech bubbles, children, costumes, exaggerated stereotypes, or famous landmark. Subtle regional setting rather than literal real-location claim.\nScene: Adult river-walk neighborhood conversation on a sunny afternoon. Japanese woman age 57 with short dark-and-gray hair in a coral cardigan pauses beside a low mint railing and chats to South Asian woman age 29 with glasses and yellow blouse. One makes a gentle open-palm gesture, the other listens with one hand on a simple canvas bag. River, contemporary bridge structure and soft trees in background, no landmark. Medium seated-height diagonal view, cropped at upper thighs with faces and hands central, warm outdoor air."
+    },
+    {
+      "key": "regional-chugoku-work",
+      "src": "assets/regional-chugoku-work.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "59d19cebe7451c29ceaccae8cd4f55484f61547c1e5f086912aa95bb6b22fccd",
+      "webpSha256": "9f1db913e0058c210f9f0242e1cc166a38ff044aaf9b7a91f143e3ab205012a3",
+      "prompt": "Use case: illustration-story. Asset type: original square editorial illustration for a Japanese dialect learning website, 1024 by 1024, opaque background. Sophisticated contemporary Japanese risograph and cut-paper visual style, confident cobalt blue ink outlines, warm cream paper, coral, sun yellow and mint colors, tactile subtle print grain and slight ink overlap; beautifully observed adult expressions and gestures, believable anatomy and five-finger hands. Natural modern Japanese and South or Southeast Asian adults, ages 20–70, ordinary contemporary clothing. Make a fresh original scene, not a copy of any existing image. All conversation faces and meaningful hands comfortably centered within middle 62% vertical band, safe for a centered 16:10 crop as well as square. No written text, letters, logos, branding, watermark, signs with writing, UI, speech bubbles, children, costumes, exaggerated stereotypes, or famous landmark. Subtle regional setting rather than literal real-location claim.\nScene: A bright contemporary waterfront parcel-sorting office, no company logos. Japanese man age 50 wearing yellow work vest and a Southeast Asian woman age 27 wearing mint collared shirt converse across a parcel desk, handing a plain unmarked cream cardboard package between their natural hands. Calm practical expressions, a small stack of blank boxes, coral chair, cobalt-framed window suggests water and modest wharf buildings. Elevated diagonal three-quarter view with both faces and parcel exchange centered."
+    },
+    {
+      "key": "regional-kinki-table",
+      "src": "assets/regional-kinki-table.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "014b3249a5dceec3d438df2f310f9725f79ac7d2c2633a21934b3489325d31c9",
+      "webpSha256": "280cc575a393b90740a0c30243e70b56e0124c85890222701f085c5ca8bf296a",
+      "prompt": "Use case: illustration-story. Asset type: original square editorial illustration for a Japanese dialect learning website, 1024 by 1024, opaque background. Sophisticated contemporary Japanese risograph and cut-paper visual style, confident cobalt blue ink outlines, warm cream paper, coral, sun yellow and mint colors, tactile subtle print grain and slight ink overlap; beautifully observed adult expressions and gestures, believable anatomy and five-finger hands. Natural modern Japanese and South or Southeast Asian adults, ages 20–70, ordinary contemporary clothing. Make a fresh original scene, not a copy of any existing image. All conversation faces and meaningful hands comfortably centered within middle 62% vertical band, safe for a centered 16:10 crop as well as square. No written text, letters, logos, branding, watermark, signs with writing, UI, speech bubbles, children, costumes, exaggerated stereotypes, or famous landmark. Subtle regional setting rather than literal real-location claim.\nScene: Side view of two adults chatting over a modest restaurant lunch. Older Japanese woman age 68 with cropped gray hair wearing a mint cardigan sits opposite younger South Asian man age 30 wearing a coral shirt. Cream bowls, rice and a yellow teapot on low dining table; chopsticks resting so their natural conversational hands are visible. Both faces warm and attentive, modern everyday room with cobalt window frame and small abstract plant. Center the two faces and hands for crop safety."
+    },
+    {
+      "key": "regional-kinki-town",
+      "src": "assets/regional-kinki-town.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "67c6bbe7212c1280b2f3f66024d04a579efe081e816f472304c43b5554910838",
+      "webpSha256": "87dda48b109ac846857b6f7362e1a2d0fc20c657d0dfb7182c0b579fb09f6c4d",
+      "prompt": "Use case: illustration-story. Asset type: original square editorial illustration for a Japanese dialect learning website, 1024 by 1024, opaque background. Sophisticated contemporary Japanese risograph and cut-paper visual style, confident cobalt blue ink outlines, warm cream paper, coral, sun yellow and mint colors, tactile subtle print grain and slight ink overlap; beautifully observed adult expressions and gestures, believable anatomy and five-finger hands. Natural modern Japanese and South or Southeast Asian adults, ages 20–70, ordinary contemporary clothing. Make a fresh original scene, not a copy of any existing image. All conversation faces and meaningful hands comfortably centered within middle 62% vertical band, safe for a centered 16:10 crop as well as square. No written text, letters, logos, branding, watermark, signs with writing, UI, speech bubbles, children, costumes, exaggerated stereotypes, or famous landmark. Subtle regional setting rather than literal real-location claim.\nScene: Neighborhood Osaka-like independent bookshop interior with anonymous blank-spined books and a cream doorway. A Japanese male bookshop clerk age 60 with short salt-and-pepper hair and glasses talks to a Southeast Asian woman visitor age 32 in a coral jacket. Clerk gently offers one closed mint book, visitor's open hand and curious expression respond. Waist-up eye-level intimate view, both adults centered, shelves form calm background; no street signs or landmark."
+    },
+    {
+      "key": "regional-kinki-work",
+      "src": "assets/regional-kinki-work.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "d812613c3e970410488dace62eb354f21b8f7b5f641ec8396bc5bda26e18c6ce",
+      "webpSha256": "e0371b85315fbb7220485f709bd52baa04bd4f7d5b6e19d3eed7d73983e153a1",
+      "prompt": "Use case: illustration-story. Asset type: original square editorial illustration for a Japanese dialect learning website, 1024 by 1024, opaque background. Sophisticated contemporary Japanese risograph and cut-paper visual style, confident cobalt blue ink outlines, warm cream paper, coral, sun yellow and mint colors, tactile subtle print grain and slight ink overlap; beautifully observed adult expressions and gestures, believable anatomy and five-finger hands. Natural modern Japanese and South or Southeast Asian adults, ages 20–70, ordinary contemporary clothing. Make a fresh original scene, not a copy of any existing image. All conversation faces and meaningful hands comfortably centered within middle 62% vertical band, safe for a centered 16:10 crop as well as square. No written text, letters, logos, branding, watermark, signs with writing, UI, speech bubbles, children, costumes, exaggerated stereotypes, or famous landmark. Subtle regional setting rather than literal real-location claim.\nScene: Medium three-quarter view inside a small contemporary restaurant service area. Two adult staff, a Japanese woman age 45 in a coral work apron and a South Asian man age 28 in a mint work shirt, converse while organizing cream ceramic plates on a counter. One holds a plate steadily and the other points at a completely blank schedule board with simple colored blocks, no symbols or text. Warm yellow shelves, neat serving tools, cobalt window frames. Their faces and natural hands dominate the centered conversation."
+    },
+    {
+      "key": "regional-kyushu-table",
+      "src": "assets/regional-kyushu-table.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "696896dd44a2d402ddb2092e3070bd1bc4d4a1cfb2ad2405540c515465f93d61",
+      "webpSha256": "11258d7a5bad7a05bfd1bd8f1ca41f1aa576d727ade80427049d6f2eaeec3664",
+      "prompt": "Use case: illustration-story. Asset type: original square editorial illustration for a Japanese dialect learning website, 1024 by 1024, opaque background. Sophisticated contemporary Japanese risograph and cut-paper visual style, confident cobalt blue ink outlines, warm cream paper, coral, sun yellow and mint colors, tactile subtle print grain and slight ink overlap; beautifully observed adult expressions and gestures, believable anatomy and five-finger hands. Natural modern Japanese and South or Southeast Asian adults, ages 20–70, ordinary contemporary clothing. Make a fresh original scene, not a copy of any existing image. All conversation faces and meaningful hands comfortably centered within middle 62% vertical band, safe for a centered 16:10 crop as well as square. No written text, letters, logos, branding, watermark, signs with writing, UI, speech bubbles, children, costumes, exaggerated stereotypes, or famous landmark. Subtle regional setting rather than literal real-location claim.\nScene: Casual conversation at a modern cafe veranda table, quiet trees and simple cream architecture behind. A Japanese woman age 34 with short black hair wearing a yellow top and a Southeast Asian man age 46 with glasses wearing a mint shirt sit angled toward each other over two plain coffee cups. She speaks with a modest hand gesture while he listens with a light smile, one hand on cup. Coral cushions, cobalt veranda railing and cream round tabletop. Intimate three-quarter view with adults' faces and hands centrally balanced, no written menus or branding."
+    },
+    {
+      "key": "regional-kyushu-town",
+      "src": "assets/regional-kyushu-town.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "38958ccef700060ed543144f92877394e9e24bbf669d7812834023b02424b5f9",
+      "webpSha256": "73878471079c1eb551ea5d54e9d015dc05f05ccc0d30478dd2dfe4c9fdfe9fe1",
+      "prompt": "Use case: illustration-story. Asset type: original square editorial illustration for a Japanese dialect learning website, 1024 by 1024, opaque background. Sophisticated contemporary Japanese risograph and cut-paper visual style, confident cobalt blue ink outlines, warm cream paper, coral, sun yellow and mint colors, tactile subtle print grain and slight ink overlap; beautifully observed adult expressions and gestures, believable anatomy and five-finger hands. Natural modern Japanese and South or Southeast Asian adults, ages 20–70, ordinary contemporary clothing. Make a fresh original scene, not a copy of any existing image. All conversation faces and meaningful hands comfortably centered within middle 62% vertical band, safe for a centered 16:10 crop as well as square. No written text, letters, logos, branding, watermark, signs with writing, UI, speech bubbles, children, costumes, exaggerated stereotypes, or famous landmark. Subtle regional setting rather than literal real-location claim.\nScene: Covered neighborhood grocery market conversation at a vegetable stall. A Japanese male grocery vendor age 62 with gray short hair and cream apron stands behind counter chatting with a South Asian adult man age 36 in a yellow overshirt carrying a mint reusable shopping bag. Vendor holds a plain paper bag of vegetables and visitor gestures gently with open hand, both relaxed and smiling. Coral tomatoes, yellow squash, mint greens, cobalt metal canopy ribs and blank storefront panels, contemporary everyday market; medium side-angle composition, adults and hands in central band, no text or landmark."
+    },
+    {
+      "key": "regional-kyushu-work",
+      "src": "assets/regional-kyushu-work.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 35%",
+      "originalSha256": "7a324e8a432c51851c7f2b2a83f846cd054a432b28ac6e90ba9669b8534d2876",
+      "webpSha256": "390b15f62fc7cf618b5e83fca71e31426c8255ddce494009ce62bfab1c7c161b",
+      "prompt": "Use case: illustration-story. Asset type: original square editorial illustration for a Japanese dialect learning website, 1024 by 1024, opaque background. Sophisticated contemporary Japanese risograph and cut-paper visual style, confident cobalt blue ink outlines, warm cream paper, coral, sun yellow and mint colors, tactile subtle print grain and slight ink overlap; beautifully observed adult expressions and gestures, believable anatomy and five-finger hands. Natural modern Japanese and South or Southeast Asian adults, ages 20–70, ordinary contemporary clothing. Make a fresh original scene, not a copy of any existing image. All conversation faces and meaningful hands comfortably centered within middle 62% vertical band, safe for a centered 16:10 crop as well as square. No written text, letters, logos, branding, watermark, signs with writing, UI, speech bubbles, children, costumes, exaggerated stereotypes, or famous landmark. Subtle regional setting rather than literal real-location claim.\nScene: Practical contemporary hotel housekeeping storage room conversation, no hotel logos. A Japanese woman supervisor age 52 with bobbed black-and-gray hair in a mint short-sleeve work uniform talks with a Southeast Asian woman coworker age 26 in a coral short-sleeve uniform. Between them a natural careful handoff of two neatly folded cream towels, simple cobalt shelving full of linen and a small yellow rolling cart behind. Elevated oblique waist-up view with both faces and towel handoff prominently centered; respectful collaborative expressions."
+    },
+    {
+      "key": "regional-okinawa-table",
+      "src": "assets/regional-okinawa-table.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "2306d49d08b34e1fb5d77542453744c9961bb67cb1ebcb34463799b4bf58ebe9",
+      "webpSha256": "2ee1916799bdbc59216643efde6fb86823f2741505dfa9ca35c1f01dae68b13d",
+      "prompt": "Use case: illustration-story. Asset type: original square editorial illustration for a Japanese dialect learning website, 1024 by 1024, opaque background. Sophisticated contemporary Japanese risograph and cut-paper visual style, confident cobalt blue ink outlines, warm cream paper, coral, sun yellow and mint colors, tactile subtle print grain and slight ink overlap; beautifully observed adult expressions and gestures, believable anatomy and five-finger hands. Natural modern Japanese and South or Southeast Asian adults, ages 20–70, ordinary contemporary clothing. Make a fresh original scene, not a copy of any existing image. All conversation faces and meaningful hands comfortably centered within middle 62% vertical band, safe for a centered 16:10 crop as well as square. No written text, letters, logos, branding, watermark, signs with writing, UI, speech bubbles, children, costumes, exaggerated stereotypes, or famous landmark. Subtle regional setting rather than literal real-location claim.\nScene: Contemporary family dining conversation, ADULTS ONLY, ocean visible through a modest cobalt-framed window. Three family members: a Japanese woman age 55 in a mint blouse, Japanese adult man age 28 in coral shirt, and Southeast Asian adult woman age 31 in yellow blouse. Seated around a simple rectangular dinner table with ordinary rice bowls, shared vegetables and clear glasses, speaking naturally with gentle open-hand gestures. Cream modern apartment walls, minimal plant, no traditional costume or tourist decoration. Diagonal elevated three-quarter view with both near and far adults' faces clearly adult and natural hands in central band, intimate evening light."
+    },
+    {
+      "key": "regional-okinawa-town",
+      "src": "assets/regional-okinawa-town.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "865a777714ce431685c0466c9b97feea004ab0a989ca13ecaff2171e020380f5",
+      "webpSha256": "3c211aa43a0fa371f59c05f43a05bcc9d53c515610ddf58292f4993c97a2400c",
+      "prompt": "Use case: illustration-story. Asset type: original square editorial illustration for a Japanese dialect learning website, 1024 by 1024, opaque background. Sophisticated contemporary Japanese risograph and cut-paper visual style, confident cobalt blue ink outlines, warm cream paper, coral, sun yellow and mint colors, tactile subtle print grain and slight ink overlap; beautifully observed adult expressions and gestures, believable anatomy and five-finger hands. Natural modern Japanese and South or Southeast Asian adults, ages 20–70, ordinary contemporary clothing. Make a fresh original scene, not a copy of any existing image. All conversation faces and meaningful hands comfortably centered within middle 62% vertical band, safe for a centered 16:10 crop as well as square. No written text, letters, logos, branding, watermark, signs with writing, UI, speech bubbles, children, costumes, exaggerated stereotypes, or famous landmark. Subtle regional setting rather than literal real-location claim.\nScene: Contemporary residential red-tile courtyard conversation between neighbors beside an ordinary laundry line, no tourist landmark. Japanese older man age 67 with silver hair in mint polo shirt is holding a folded cream sheet and chats with a South Asian woman neighbor age 35 in coral blouse, holding a small plain laundry basket. Natural everyday gestures and relaxed expressions. Partial terracotta roof, cobalt doorway, cream textured wall and muted subtropical foliage, simple clothing hanging quietly in background. Medium oblique waist-up view, faces and meaningful hands centered, no costumes, logos or text."
+    },
+    {
+      "key": "regional-okinawa-work",
+      "src": "assets/regional-okinawa-work.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "ce3b3f0601778241f1cbb2e16d2a5c6f4d447e73cb1278c63acb8f8646a7d989",
+      "webpSha256": "9b665d9d70fa975d7314e60690a3d711fee97d33acf3b2059f83dc8fae0434d0",
+      "prompt": "Use case: illustration-story. Asset type: original square editorial illustration for a Japanese dialect learning website, 1024 by 1024, opaque background. Sophisticated contemporary Japanese risograph and cut-paper visual style, confident cobalt blue ink outlines, warm cream paper, coral, sun yellow and mint colors, tactile subtle print grain and slight ink overlap; beautifully observed adult expressions and gestures, believable anatomy and five-finger hands. Natural modern Japanese and South or Southeast Asian adults, ages 20–70, ordinary contemporary clothing. Make a fresh original scene, not a copy of any existing image. All conversation faces and meaningful hands comfortably centered within middle 62% vertical band, safe for a centered 16:10 crop as well as square. No written text, letters, logos, branding, watermark, signs with writing, UI, speech bubbles, children, costumes, exaggerated stereotypes, or famous landmark. Subtle regional setting rather than literal real-location claim.\nScene: A bright contemporary community-center room with three adults sorting learning materials. Japanese woman age 63 with short gray hair in a coral blouse, Southeast Asian woman age 30 with a ponytail in a mint shirt, and Japanese man age 42 in a yellow knit top. They converse while stacking blank cream notebooks and colored unlettered cards into plain trays on a central table, one adult offers a notebook, others respond with natural hands. Cobalt window frames, a small subtropical plant and clean modest shelves. Elevated three-quarter group composition; friendly focused adult faces and hands in a central triangle, no writing or children."
+    },
+    {
+      "key": "regional-shikoku-table",
+      "src": "assets/regional-shikoku-table.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "37f053730e23343cf8b25ebf6ea477fbce6fd654ab95155e68f7d4c8d848687f",
+      "webpSha256": "f85bc5f7312202b0e62dbf6bce7b52877fedf5d3179c4400eb73bcc4b29016ee",
+      "prompt": "Use case: illustration-story. Asset type: original square editorial illustration for a Japanese dialect learning website, 1024 by 1024, opaque background. Sophisticated contemporary Japanese risograph and cut-paper visual style, confident cobalt blue ink outlines, warm cream paper, coral, sun yellow and mint colors, tactile subtle print grain and slight ink overlap; beautifully observed adult expressions and gestures, believable anatomy and five-finger hands. Natural modern Japanese and South or Southeast Asian adults, ages 20–70, ordinary contemporary clothing. Make a fresh original scene, not a copy of any existing image. All conversation faces and meaningful hands comfortably centered within middle 62% vertical band, safe for a centered 16:10 crop as well as square. No written text, letters, logos, branding, watermark, signs with writing, UI, speech bubbles, children, costumes, exaggerated stereotypes, or famous landmark. Subtle regional setting rather than literal real-location claim.\nScene: Lunch conversation in a simple modern udon-style neighborhood restaurant. Japanese man age 43 in a mint shirt and South Asian woman age 31 with shoulder-length hair wearing cream blouse and coral cardigan sit side by side at a counter, turned toward one another in relaxed conversation. Two cream bowls of broad noodles on cobalt placemats, chopsticks resting on counter, mugs, yellow hanging lamps and blank cream partition. Intimate oblique side view from counter end; natural faces and speaking hand gestures centered, all people clearly adult, no writing."
+    },
+    {
+      "key": "regional-shikoku-town",
+      "src": "assets/regional-shikoku-town.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 35%",
+      "originalSha256": "8f94097c7db5c13719b38ad1ab02e048c45a109567b5abad3bbe8b66305aaf7a",
+      "webpSha256": "c07ec7e0b5e661e319f563e6dca99736f474da374b45a17b24e4ef4717932e73",
+      "prompt": "Use case: illustration-story. Asset type: original square editorial illustration for a Japanese dialect learning website, 1024 by 1024, opaque background. Sophisticated contemporary Japanese risograph and cut-paper visual style, confident cobalt blue ink outlines, warm cream paper, coral, sun yellow and mint colors, tactile subtle print grain and slight ink overlap; beautifully observed adult expressions and gestures, believable anatomy and five-finger hands. Natural modern Japanese and South or Southeast Asian adults, ages 20–70, ordinary contemporary clothing. Make a fresh original scene, not a copy of any existing image. All conversation faces and meaningful hands comfortably centered within middle 62% vertical band, safe for a centered 16:10 crop as well as square. No written text, letters, logos, branding, watermark, signs with writing, UI, speech bubbles, children, costumes, exaggerated stereotypes, or famous landmark. Subtle regional setting rather than literal real-location claim.\nScene: Residential neighborhood greeting. A Southeast Asian adult man age 33 with cropped black hair and yellow jacket has just parked a mint everyday city bicycle and smiles toward a Japanese woman neighbor age 69 with gray hair and coral cardigan holding a small plain shopping basket. His one hand steadies the bicycle handlebar while the other returns a modest greeting; the older woman's open hand responds naturally. Medium three-quarter view, bicycle mostly below action and railing/wall behind, modern quiet street, both faces and hands central; no temples or tourist symbols."
+    },
+    {
+      "key": "regional-shikoku-work",
+      "src": "assets/regional-shikoku-work.webp",
+      "width": 850,
+      "height": 850,
+      "position": "50% 50%",
+      "originalSha256": "f2af34f64c32dcaf56448d45caa0e69b1a29b98b8931361a501caf038a6200e1",
+      "webpSha256": "b38b21a0fd5785faac66636060e6c6711cca34be416821df5afe3f9a2f32f74b",
+      "prompt": "Use case: illustration-story. Asset type: original square editorial illustration for a Japanese dialect learning website, 1024 by 1024, opaque background. Sophisticated contemporary Japanese risograph and cut-paper visual style, confident cobalt blue ink outlines, warm cream paper, coral, sun yellow and mint colors, tactile subtle print grain and slight ink overlap; beautifully observed adult expressions and gestures, believable anatomy and five-finger hands. Natural modern Japanese and South or Southeast Asian adults, ages 20–70, ordinary contemporary clothing. Make a fresh original scene, not a copy of any existing image. All conversation faces and meaningful hands comfortably centered within middle 62% vertical band, safe for a centered 16:10 crop as well as square. No written text, letters, logos, branding, watermark, signs with writing, UI, speech bubbles, children, costumes, exaggerated stereotypes, or famous landmark. Subtle regional setting rather than literal real-location claim.\nScene: Two adult coworkers converse at a contemporary citrus farm packing table beneath a light cream shelter. Japanese woman age 58 in a mint shirt and practical navy apron, and South Asian man age 25 in coral polo. They lift and sort bright yellow-orange citrus into plain unmarked trays; each has natural relaxed hands, one holding a single orange while talking. Background citrus foliage, plain crates and cobalt structural posts. Medium side-angle waist-up composition with warm teamwork, both faces and hands in center, no writing or costumes."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+(() => {
+  const assets=()=>window.KotobaArtAssets||{};
+  const exact={
+    'work-confirm':'factory-inspect','work-error':'factory-report','work-unheard':'factory-inspect',
+    'care-feeling':'care-drink','care-movement':'care-door','care-meal':'care-drink','care-elders':'care-activity',
+    'daily-order':'food-menu','daily-train':'transit-platform','daily-home':'home-viewing','work-harvest':'farm-harvest','work-hotel':'hotel-towels',
+    'chat-yabai':'friend-bill','chat-sorena':'friend-study','chat-maji':'friend-concert','chat-emo':'friend-phone','chat-wanchan':'friend-movie','chat-wakaru':'friend-study',
+    'kanazawa-shop':'food-table','sanuki-welcome':'food-table','kyoto-manager':'food-menu','kyoto-shop':'food-takeout','nagoya-hot':'food-menu','nagoya-lock':'home-key','hakata-bag':'farm-crates',
+    'daily-v2-express-stop':'transit-platform','daily-v2-transfer-platform':'transit-platform','daily-v2-bus-small-change':'transit-bus','daily-v2-missed-bus-stop':'transit-bus','daily-v2-ic-recharge':'transit-platform',
+    'daily-v2-shopping-bag':'shop-grocery','daily-v2-shirt-size':'shop-clothes','daily-v2-return-receipt':'shop-clothes','daily-v2-takeout-order':'food-takeout','daily-v2-rice-portion':'food-menu','daily-v2-separate-checks':'friend-bill','daily-v2-restaurant-delay':'food-reservation',
+    'daily-v2-room-viewing':'home-viewing','daily-v2-leaking-tap':'home-maintenance','daily-v2-building-work':'home-maintenance','daily-v2-rubbish-calendar':'home-rubbish','daily-v2-parcel-locker':'home-parcel','daily-v2-moveout-visit':'home-viewing','daily-v2-address-counter':'city-paperwork','daily-v2-form-reading':'city-paperwork','daily-v2-city-language-help':'city-paperwork','daily-v2-utility-start':'city-paperwork','daily-v2-duplicate-bill':'city-paperwork','daily-v2-bank-printout':'city-paperwork',
+    'daily-v2-clinic-booking':'clinic-phone','daily-v2-clinic-reschedule':'clinic-phone','daily-v2-clinic-arrival':'clinic-counter','daily-v2-clinic-delay':'clinic-wait','daily-v2-clinic-name':'clinic-counter','daily-v2-clinic-questionnaire':'clinic-questionnaire','daily-v2-clinic-language':'clinic-questionnaire','daily-v2-clinic-receipt':'clinic-counter','daily-v2-clinic-next-visit':'clinic-counter','daily-v2-clinic-access':'clinic-access','daily-v2-library-renewal':'library-learning','daily-v2-community-class':'library-learning',
+    'work-v2-care-drink-choice':'care-drink','work-v2-care-activity-choice':'care-activity','work-v2-care-room-consent':'care-door','work-v2-care-preferred-name':'care-activity',
+    'work-v2-factory-label-match':'factory-inspect','work-v2-factory-damaged-packaging':'factory-report','work-v2-factory-observation-only':'factory-path','work-v2-factory-blocked-walkway':'factory-path',
+    'work-v2-farm-harvest-example':'farm-harvest','work-v2-farm-two-person-box':'farm-crates','work-v2-farm-tray-label':'farm-harvest','work-v2-farm-rain-task-change':'farm-crates',
+    'work-v2-hotel-reservation-name':'hotel-desk','work-v2-hotel-extra-towels':'hotel-towels','work-v2-hotel-cleaning-time':'hotel-towels','work-v2-hotel-left-umbrella':'hotel-desk',
+    'work-v2-restaurant-order-change':'food-menu','work-v2-restaurant-waiting-time':'food-table','work-v2-restaurant-takeout-name':'food-takeout','work-v2-restaurant-separate-bills':'friend-bill',
+    'work-v2-office-deadline-check':'office-deadline','work-v2-office-room-change':'office-deadline','work-v2-office-file-version':'office-priority','work-v2-office-priority-request':'office-priority',
+    'chat-v2-concert-invitation':'friend-concert','chat-v2-group-chat-map':'friend-phone','chat-v2-weekend-rest':'friend-movie','chat-v2-cafe-seat':'friend-study','chat-v2-brief-chat-misunderstanding':'friend-phone','chat-v2-gentle-decline':'friend-study','chat-v2-borrow-a-charger':'friend-phone','chat-v2-rain-reschedule':'friend-rain','chat-v2-split-the-bill':'friend-bill','chat-v2-running-late':'friend-meetup','chat-v2-read-but-reply-later':'friend-phone','chat-v2-movie-time-uncertain':'friend-movie'
+  };
+  const sets={care:['care-drink','care-activity','care-door'],factory:['factory-inspect','factory-report','factory-path'],farm:['farm-harvest','farm-crates'],hotel:['hotel-desk','hotel-towels','home-viewing','home-key'],friends:['friend-concert','friend-movie','friend-rain','friend-phone','friend-bill','friend-study','friend-meetup'],station:['transit-platform','transit-bus'],restaurant:['food-menu','food-table','food-takeout','friend-bill'],office:['office-deadline','office-priority'],city:['city-paperwork','library-learning'],clinic:['clinic-wait','clinic-counter','clinic-questionnaire']};
+  const hash=text=>{let h=0;for(const c of String(text))h=(h*31+c.codePointAt(0))>>>0;return h;};
+  const record=key=>assets()[key]||null;
+  const groupFor=id=>typeof regions==='undefined'?null:regions.find(r=>r.id===id)?.group;
+  function infer(text,kind,region){
+    if(/雪|寒い|冬/.test(text)&&region&&groupFor(region)==='hokkaido')return 'region-hokkaido';
+    if(/介護|利用者|食事介助|高齢/.test(text))return /飲|食|水分/.test(text)?'care-drink':/部屋|入室|待って/.test(text)?'care-door':'care-activity';
+    if(/タオル|清掃|客室/.test(text))return 'hotel-towels';if(/ホテル|宿泊|予約名/.test(text))return 'hotel-desk';
+    if(/ラベル|箱.*番号|工具|点検/.test(text))return 'factory-inspect';if(/不良|破れ|異常|包装/.test(text))return 'factory-report';if(/通路|安全|見学/.test(text)&&kind==='factory')return 'factory-path';
+    if(/収穫|苗|農業/.test(text))return 'farm-harvest';if(/重い箱|二人で|運ぶ/.test(text)&&kind==='farm')return 'farm-crates';
+    if(/ごみ|ゴミ|資源|分別/.test(text))return 'home-rubbish';if(/鍵|かぎ/.test(text)&&kind==='hotel')return 'home-key';if(/内見|部屋を見る|退去/.test(text))return 'home-viewing';if(/水漏|水道|管理会社/.test(text))return 'home-maintenance';if(/荷物|宅配|郵便/.test(text))return 'home-parcel';
+    if(/バス|停留所|小銭/.test(text))return 'transit-bus';if(/電車|列車|駅|ホーム|乗り換え/.test(text))return 'transit-platform';
+    if(/服|シャツ|サイズ|返品/.test(text))return 'shop-clothes';if(/袋|買い物|スーパー|レジ/.test(text))return 'shop-grocery';if(/持ち帰|弁当/.test(text))return 'food-takeout';if(/注文|ご飯|食べ|メニュー/.test(text))return 'food-menu';
+    if(/病院|問診|診察/.test(text)||kind==='clinic')return /問診|用紙/.test(text)?'clinic-questionnaire':/電話/.test(text)?'clinic-phone':/入口|段差/.test(text)?'clinic-access':'clinic-counter';if(/申し込|申込|窓口|銀行|住所|用紙|請求/.test(text))return 'city-paperwork';if(/図書|日本語教室|勉強/.test(text))return 'library-learning';
+    if(/締め切り|予定|会議/.test(text)&&kind==='office')return 'office-deadline';if(/資料|優先|ファイル/.test(text))return 'office-priority';
+    if(/コンサート|ライブ|音楽/.test(text))return 'friend-concert';if(/映画|やばい/.test(text)&&kind==='friends')return 'friend-movie';if(/雨|傘/.test(text)&&kind==='friends')return 'friend-rain';if(/地図|スマホ|充電|既読|送る|チャット/.test(text))return 'friend-phone';if(/会計|支払|割り勘/.test(text))return 'friend-bill';if(/待ち合わせ|遅れる/.test(text))return 'friend-meetup';
+    return null;
+  }
+  const workKind={hokkaido:'factory',tohoku:'farm',kanto:'office',hokuriku:'factory',koshinetsu:'farm',tokai:'factory',kinki:'restaurant',chugoku:'office',shikoku:'farm',kyushu:'hotel',okinawa:'city'};
+  function regionalArt(l){const group=groupFor(l.region);if(!group)return null;const text=l.turns?.map(t=>t.text).join(' ')||l.target;if(l.regionalWorkScene)return record('regional-'+group+'-work');if(l.art==='restaurant')return record('regional-'+group+'-table');if(l.art===workKind[group])return record('regional-'+group+'-work');if(l.art==='friends'&&!/スマホ|携帯|映画|コンサート|資料|書類|電話/.test(text))return record('regional-'+group+'-town');if(l.art==='station'&&/天気|風|寒|暑|雪|雨|歩|外|帰/.test(text))return record('regional-'+group+'-town');return null;}
+  function dialogue(l){if(!l)return null;if(l.sourceType==='regional-scene'){const regional=regionalArt(l);if(regional)return regional;}let key=exact[l.id];if(!key&&l.id.startsWith('regional-guide-'))key='region-'+groupFor(l.region);if(!key)key=infer(l.titleJa+' '+l.target,l.art,l.region)||sets[l.art]?.[hash(l.id)%sets[l.art].length];return record(key);}
+  function phrase(item,mode,region){if(!item)return null;const text=[item.phrase,item.scene,item.sceneEn,item.category,item.categoryEn,item.tag].join(' ');const kind=mode==='youth'?'friends':/介護|利用者|高齢|care|health/i.test(text)?'care':/畑|野菜|農業|収穫|農園|漁業|agri|harvest|fishing/i.test(text)?'farm':/病院|診察|clinic/i.test(text)?'clinic':/宿泊|ホテル|旅館|hotel|guest/i.test(text)?'hotel':/電車|駅|交通|バス|train|transport/i.test(text)?'station':/窓口|手続き|書類|市役所/i.test(text)?'city':/買い物|外食|飲食|注文|レストラン|料理|食品|restaurant|food|kitchen/i.test(text)?'restaurant':/会議|オフィス|office/i.test(text)?'office':/工場|製造|工程|点検|作業|片づけ|品質|職場|仕事|machine|factory|work|safety/i.test(text)||mode==='work'?'factory':'friends';let key=infer(text,kind,region);if(!key&&mode==='dialect')key='region-'+groupFor(region);if(!key)key=sets[kind]?.[hash(item.phrase)%sets[kind].length];return record(key);}
+  window.KotobaArt={dialogue,phrase,record,get count(){return Object.keys(assets()).length;}};
+})();

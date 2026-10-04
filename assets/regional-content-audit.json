@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-04",
+  "newCards": 233,
+  "newLessons": 1626,
+  "totalLessons": 1893,
+  "regionalLessons": 1803,
+  "regions": 156,
+  "regionalCards": 1807,
+  "totalTurns": 11916,
+  "newIllustrations": 33,
+  "newLanguageKeysPerLanguage": 1283,
+  "audit": {
+    "status": "pass",
+    "newCardCount": 233,
+    "sourceLedgersRead": [
+      "north-sources.json",
+      "central-sources.json",
+      "south-sources.json"
+    ],
+    "finalSeedCount": 1626,
+    "finalTurnCount": 9756,
+    "situated": 1361,
+    "quoted": 265,
+    "semanticFamiliesSampled": 164,
+    "clarificationFamilyMembersReviewed": 115,
+    "finalSelfAnnouncementsChecked": [
+      "toyama / 本をまたいするね",
+      "hakodate / この紙は投げるね"
+    ],
+    "wholeFileVerification": "All focus text/standard/English/reading values match an original or addition source row; all authored context text equals its standard Japanese value.",
+    "wholeFileMismatches": 0,
+    "materialCorrections": "Initial quoted-category routing, future weather, actor/departure closures, bare-verb/negation/thanks routing, explicit clarification responses, and two self-announcement contexts were corrected by the builder and rereviewed.",
+    "remainingFindings": [],
+    "scopeCautionsForRoot": [
+      "Original amami/miyakojima/yaeyama mainland welcome and plain Japanese duplicates are not attested native-island-language evidence.",
+      "kitakyushu グラグラ source is northern Kyushu broadly, not a city-specific distribution claim."
+    ],
+    "assetManifest": "/workspace/scratch/7aaae2beaa8b/art-v4/south/manifest.json"
+  },
+  "newLessonModes": {
+    "situated": 1361,
+    "quoted": 265
+  }
+}

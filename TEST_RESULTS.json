@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "sourceVersion": 31,
+  "regions": 156,
+  "cards": 1807,
+  "lessons": 1893,
+  "turns": 11916,
+  "art": 83,
+  "checkedLocalAssets": true,
+  "decodedImages": 87,
+  "allMajorRegionFilters": 11,
+  "responsiveStates": 96,
+  "displayLanguages": 6,
+  "repositoryNameIndependent": true,
+  "deepLinkReload": true,
+  "progressPersistence": true,
+  "audioControls": "6-line sequence, one line, role practice and stop; speech synthesis mocked for deterministic checks",
+  "javascriptErrors": [],
+  "missingFiles": [],
+  "githubDeployment": "Not uploaded to an actual GitHub account; verified from an extracted ZIP via HTTP under project-site subdirectory paths.",
+  "includedWebpImages": 101,
+  "allWebpIntegrityChecked": true
+}

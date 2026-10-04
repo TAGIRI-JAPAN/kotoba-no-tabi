@@ -1,0 +1,904 @@
+{
+  "checkedAt": "2026-10-04",
+  "addedCards": 233,
+  "learningExamples": "Composed teaching examples, not source quotations or recordings. Locality, generation and current frequency must be checked in the linked reference.",
+  "parts": {
+    "north": {
+      "createdAt": "2026-10-04",
+      "count": 80,
+      "method": "Only attested target words; original illustrative dialogues keep surrounding Japanese standard. Romanization is orthographic learning support, not pitch-accent guidance. No claim of universal current use.",
+      "limitations": [
+        "Hokkaido entries restricted to Hakodate source context; no uniform whole-island assumption.",
+        "Tohoku additions cover Tsugaru and South Yamagata, not every assigned Tohoku subregion.",
+        "Kanto additions cover only Daigo Town within the broad Ibaraki region; other Kanto varieties were not generalized from it.",
+        "Fukui entries distinguish Reihoku, Reinan and eastern Reinan where source does.",
+        "Some words in the 2012 South Yamagata and Daigo records may be uncommon among younger speakers.",
+        "Sources attest vocabulary and definitions, not these newly composed teaching dialogues."
+      ],
+      "sources": [
+        {
+          "url": "https://www.hokkyodai.ac.jp/info_topics_hue/hak/detail/10406.html",
+          "title": "北海道教育大学函館校「函館弁・北海道弁講座」2020–2021",
+          "regions": [
+            "hakodate"
+          ],
+          "scope": "Hakodate-based educator observations; broad Hokkaido descriptions are not copied to every Hokkaido subregion. Use varies by generation.",
+          "reference": "turn17view0",
+          "location": "Columns April 13, April 21, May 21, May 26, June 3, June 10, July 8, August 28, October 5, November 30, December 7, January 4, January 7",
+          "id": "hue",
+          "retrievedAt": "2026-10-04",
+          "items": [
+            {
+              "region": "hakodate",
+              "phrase": "お茶碗をうるかす"
+            },
+            {
+              "region": "hakodate",
+              "phrase": "コートの雪をほろう"
+            },
+            {
+              "region": "hakodate",
+              "phrase": "今朝はしばれるね"
+            },
+            {
+              "region": "hakodate",
+              "phrase": "せばね、来週会おう"
+            },
+            {
+              "region": "hakodate",
+              "phrase": "はんかくさい失敗をした"
+            },
+            {
+              "region": "hakodate",
+              "phrase": "このご飯、あめているね"
+            },
+            {
+              "region": "hakodate",
+              "phrase": "おばんでした"
+            },
+            {
+              "region": "hakodate",
+              "phrase": "手袋をはくね"
+            },
+            {
+              "region": "hakodate",
+              "phrase": "玄関の鍵をかるね"
+            },
+            {
+              "region": "hakodate",
+              "phrase": "じょっぴんかるね"
+            },
+            {
+              "region": "hakodate",
+              "phrase": "机の上がわやだ"
+            },
+            {
+              "region": "hakodate",
+              "phrase": "なしたの？"
+            },
+            {
+              "region": "hakodate",
+              "phrase": "なして、その色にしたの？"
+            },
+            {
+              "region": "hakodate",
+              "phrase": "なしても、この絵を見たい"
+            },
+            {
+              "region": "hakodate",
+              "phrase": "なんもなんも"
+            },
+            {
+              "region": "hakodate",
+              "phrase": "この紙は投げるね"
+            }
+          ]
+        },
+        {
+          "url": "https://www.t-bunkyo.ac.jp/minamiyamagata/upload/pdf/minamiyamagata_sassi.pdf",
+          "title": "東北文教大学短期大学部・南山形コミュニティーセンター「南山形ことば集」2012",
+          "regions": [
+            "yamagata"
+          ],
+          "scope": "Specifically South Yamagata district in Yamagata City; historical local word survey with generation differences. No claim that every resident currently uses these terms.",
+          "reference": "turn14view1",
+          "location": "PDF pp. 11–18 (printed dictionary pages 5–12), あ行",
+          "id": "yamagata",
+          "retrievedAt": "2026-10-04",
+          "items": [
+            {
+              "region": "yamagata",
+              "phrase": "あでくらをしよう"
+            },
+            {
+              "region": "yamagata",
+              "phrase": "あどつぁまに花を供える"
+            },
+            {
+              "region": "yamagata",
+              "phrase": "いれぽこに入れたよ"
+            },
+            {
+              "region": "yamagata",
+              "phrase": "今日は人がうがえね"
+            },
+            {
+              "region": "yamagata",
+              "phrase": "うずで待っているね"
+            },
+            {
+              "region": "yamagata",
+              "phrase": "この花はうずぐさえね"
+            },
+            {
+              "region": "yamagata",
+              "phrase": "えづのこまえ、雨が止んだね"
+            },
+            {
+              "region": "yamagata",
+              "phrase": "絵本がえっぱえある"
+            },
+            {
+              "region": "yamagata",
+              "phrase": "今日のおさえは何？"
+            },
+            {
+              "region": "yamagata",
+              "phrase": "使い方をおしぇるね"
+            },
+            {
+              "region": "yamagata",
+              "phrase": "乾いた小枝をおだる"
+            },
+            {
+              "region": "yamagata",
+              "phrase": "おづげもあるよ"
+            }
+          ]
+        },
+        {
+          "url": "https://www.town.daigo.ibaraki.jp/page/page000175.html",
+          "title": "大子町公式ホームページ「大子弁辞書（あ行）」",
+          "regions": [
+            "ibaraki"
+          ],
+          "scope": "Daigo Town, northern Ibaraki. Entries explicitly identify this local scope rather than claim uniform prefecture-wide usage.",
+          "reference": "turn8view0",
+          "location": "Vocabulary table, あ行",
+          "id": "daigo",
+          "retrievedAt": "2026-10-04",
+          "items": [
+            {
+              "region": "ibaraki",
+              "phrase": "あーれに置いて"
+            },
+            {
+              "region": "ibaraki",
+              "phrase": "青なじみになった"
+            },
+            {
+              "region": "ibaraki",
+              "phrase": "猫のあしとがある"
+            },
+            {
+              "region": "ibaraki",
+              "phrase": "この毛布はあつっこいね"
+            },
+            {
+              "region": "ibaraki",
+              "phrase": "あっためげえしを見ている"
+            },
+            {
+              "region": "ibaraki",
+              "phrase": "あっぱとっぱしていた"
+            },
+            {
+              "region": "ibaraki",
+              "phrase": "ありんどめがいるね"
+            },
+            {
+              "region": "ibaraki",
+              "phrase": "あんにぃと出かける"
+            },
+            {
+              "region": "ibaraki",
+              "phrase": "いがいかぼちゃだね"
+            },
+            {
+              "region": "ibaraki",
+              "phrase": "棚のいりにあるよ"
+            },
+            {
+              "region": "ibaraki",
+              "phrase": "竿のうらっぺを見て"
+            },
+            {
+              "region": "ibaraki",
+              "phrase": "おごうこを少し食べる"
+            },
+            {
+              "region": "ibaraki",
+              "phrase": "おしびょうで留める"
+            },
+            {
+              "region": "ibaraki",
+              "phrase": "おにむしを見つけた"
+            }
+          ]
+        },
+        {
+          "url": "https://fupo.jp/lp/fukuiben/",
+          "title": "福井県制作「しあわせを呼ぶ福井の方言」（加藤和夫監修）",
+          "regions": [
+            "fukui",
+            "reinan"
+          ],
+          "scope": "Prefectural project verified through the official Fukui government link. First dialogue set is Reihoku, second set Reinan; eastern Reinan lexical distinctions kept explicit.",
+          "reference": "turn8view1",
+          "location": "方言マスターへの道; regional meaning comparison column",
+          "officialProjectUrl": "https://www.pref.fukui.lg.jp/doc/bunshin/hougen.html",
+          "id": "fukui",
+          "retrievedAt": "2026-10-04",
+          "items": [
+            {
+              "region": "fukui",
+              "phrase": "今日は人があまりえんね"
+            },
+            {
+              "region": "fukui",
+              "phrase": "しなーっと練習していた"
+            },
+            {
+              "region": "fukui",
+              "phrase": "この展示はおもっしぇーね"
+            },
+            {
+              "region": "fukui",
+              "phrase": "はよしねー"
+            },
+            {
+              "region": "fukui",
+              "phrase": "この道具はおぞいね"
+            },
+            {
+              "region": "fukui",
+              "phrase": "捨てるのはおとましいね"
+            },
+            {
+              "region": "reinan",
+              "phrase": "歩いてほっこりした"
+            },
+            {
+              "region": "reinan",
+              "phrase": "祖父は家におるよ"
+            },
+            {
+              "region": "reinan",
+              "phrase": "あんじょー準備できた"
+            },
+            {
+              "region": "reinan",
+              "phrase": "なした寒い朝だね"
+            },
+            {
+              "region": "reinan",
+              "phrase": "そろそろいぬね"
+            },
+            {
+              "region": "reinan",
+              "phrase": "雨が続くと、かなんね"
+            },
+            {
+              "region": "reinan",
+              "phrase": "暗い道はおぞいね"
+            },
+            {
+              "region": "reinan",
+              "phrase": "虫が飛び回って、おとましい"
+            }
+          ]
+        },
+        {
+          "url": "https://www.pref.toyama.jp/documents/18558/manual-design_0315low.pdf",
+          "title": "富山県厚生部「とやま方言マニュアル」（中井精一監修、2022年3月）",
+          "regions": [
+            "toyama"
+          ],
+          "scope": "Official guide based on interviews and questionnaires at 70 care providers in Toyama, supervised by linguist Seichi Nakai. Assigned only to the broad existing Toyama region, not to every municipality.",
+          "reference": "turn19view1",
+          "location": "PDF p.2 entries 2,4,10; p.3 entries 15,19–26,28,30; p.4 entries 33–36,38–39",
+          "id": "toyama",
+          "retrievedAt": "2026-10-04",
+          "items": [
+            {
+              "region": "toyama",
+              "phrase": "つかえんよ"
+            },
+            {
+              "region": "toyama",
+              "phrase": "やんばいに進んでいる"
+            },
+            {
+              "region": "toyama",
+              "phrase": "大きな音でいきそった"
+            },
+            {
+              "region": "toyama",
+              "phrase": "うまくできなくて、はがやしい"
+            },
+            {
+              "region": "toyama",
+              "phrase": "このスープはしょむないね"
+            },
+            {
+              "region": "toyama",
+              "phrase": "この煮物はくどいね"
+            },
+            {
+              "region": "toyama",
+              "phrase": "このご飯はこわいね"
+            },
+            {
+              "region": "toyama",
+              "phrase": "本がでかいとあるね"
+            },
+            {
+              "region": "toyama",
+              "phrase": "ご飯はちょっこでいい"
+            },
+            {
+              "region": "toyama",
+              "phrase": "ていっしゅを出すね"
+            },
+            {
+              "region": "toyama",
+              "phrase": "ちりしを取ってくれる？"
+            },
+            {
+              "region": "toyama",
+              "phrase": "ゆあげを用意したよ"
+            },
+            {
+              "region": "toyama",
+              "phrase": "ぎりぎりはここだよ"
+            },
+            {
+              "region": "toyama",
+              "phrase": "けべすの部分を見て"
+            },
+            {
+              "region": "toyama",
+              "phrase": "ありがたーなってきた"
+            },
+            {
+              "region": "toyama",
+              "phrase": "少しなごなるね"
+            },
+            {
+              "region": "toyama",
+              "phrase": "ひらすまをする"
+            },
+            {
+              "region": "toyama",
+              "phrase": "ここにねまるね"
+            },
+            {
+              "region": "toyama",
+              "phrase": "本をまたいするね"
+            },
+            {
+              "region": "toyama",
+              "phrase": "切符をうしなかした"
+            }
+          ]
+        },
+        {
+          "url": "https://www.city.hirosaki.aomori.jp/city_promotion/topics/2024/08/20240816.html",
+          "title": "弘前市「嶽きみのシーズンが到来しました！」",
+          "regions": [
+            "tsugaru"
+          ],
+          "scope": "The municipal page explicitly defines きみ as Tsugaru for corn.",
+          "reference": "turn48view1",
+          "location": "Paragraph defining 嶽きみ",
+          "id": "kimi",
+          "retrievedAt": "2026-10-04",
+          "items": [
+            {
+              "region": "tsugaru",
+              "phrase": "きみを焼こう"
+            }
+          ]
+        },
+        {
+          "url": "https://www.pref.aomori.lg.jp/soshiki/soumu/zeimu/files/aomorifurusatokifukin2021_2.pdf",
+          "title": "青森県ふるさと寄附金返礼品案内2021「じょっぱり」解説",
+          "regions": [
+            "tsugaru"
+          ],
+          "scope": "Explicit Tsugaru word definition; original self-description avoids a stereotype about residents.",
+          "reference": "turn48view2",
+          "location": "PDF p.2, item B-08",
+          "id": "joppari",
+          "retrievedAt": "2026-10-04",
+          "items": [
+            {
+              "region": "tsugaru",
+              "phrase": "私は少しじょっぱりだね"
+            }
+          ]
+        },
+        {
+          "url": "https://oshimiyage.pref.aomori.lg.jp/entry-list/?department=%E3%82%BD%E3%83%95%E3%83%88%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF",
+          "title": "青森県「青の煌めきあおもり推し土産総選挙2026」なとわ解説",
+          "regions": [
+            "tsugaru"
+          ],
+          "scope": "Official prefectural product explanation defines なとわ as you and I in Tsugaru; not a claim about broader pronominal grammar.",
+          "reference": "turn48view3",
+          "location": "Entry 003 なとわ",
+          "id": "natowa",
+          "retrievedAt": "2026-10-04",
+          "items": [
+            {
+              "region": "tsugaru",
+              "phrase": "なとわで写真を撮ろう"
+            }
+          ]
+        },
+        {
+          "url": "https://www.pref.aomori.lg.jp/soshiki/kodomo/wakamono/files/2010-0318-1541.pdf",
+          "title": "青森県地域社会報告書「サン・じゃらっと」語義解説",
+          "regions": [
+            "tsugaru"
+          ],
+          "scope": "Report explicitly defines さんじゃらっと as a Tsugaru expression for a little.",
+          "reference": "turn48view4",
+          "location": "PDF p.11, printed p.10, footnote on サン・じゃらっと",
+          "id": "sanjaratto",
+          "retrievedAt": "2026-10-04",
+          "items": [
+            {
+              "region": "tsugaru",
+              "phrase": "さんじゃらっと待って"
+            }
+          ]
+        }
+      ]
+    },
+    "central": {
+      "checkedAt": "2026-10-04",
+      "count": 74,
+      "countsByRegion": {
+        "niigata": 8,
+        "kofu": 8,
+        "yamanashi": 6,
+        "gifu-city": 10,
+        "hida": 10,
+        "kyoto": 8,
+        "tango": 8,
+        "nagoya": 5,
+        "wakayama": 6,
+        "enshu": 2,
+        "sado": 3
+      },
+      "sources": [
+        {
+          "url": "https://niigata-kankou.or.jp/location/dialect-dictionary/",
+          "title": "新潟県フィルムコミッション：方言辞典",
+          "ref": "turn24view1",
+          "scopeAndEvidence": "Prefectural film commission glossary; lists multiple Niigata varieties without assigning each word to a municipality. Mapped only to the broad niigata region.",
+          "cardCount": 8
+        },
+        {
+          "url": "https://www.city.kofu.yamanashi.jp/shise/koho/koshuben.html",
+          "title": "甲府市：直撃！甲州弁アンケート",
+          "ref": "turn36view2",
+          "scopeAndEvidence": "Municipal survey with first-person usage reports and explicit word meanings. Chosen reports identify Kofu residents or meanings repeated across reports.",
+          "cardCount": 8
+        },
+        {
+          "url": "https://www.pref.yamanashi.jp/documents/27878/hougen.pdf",
+          "title": "山梨県：甲州方言（なまり）番付表",
+          "ref": "turn26view1",
+          "scopeAndEvidence": "Prefectural historical dialect chart; not evidence that all words remain common. Cards explicitly describe documented traditional words. Chart warns of regional differences.",
+          "cardCount": 6
+        },
+        {
+          "url": "https://www.city.gifu.lg.jp/_res/projects/default_project/_page_/001/005/148/r6shiryouhenn.pdf",
+          "title": "岐阜市：まちなか博士認定試験テキスト・資料編「岐阜の方言」",
+          "ref": "turn30search2",
+          "scopeAndEvidence": "Official Gifu city educational table. Used indexed source text because PDF open failed. Mapped only to gifu-city, not all Mino districts.",
+          "cardCount": 10
+        },
+        {
+          "url": "https://www.city.takayama.lg.jp/shisei/1015214/1021586/1021628.html",
+          "title": "高山市：海の街から山の街にやってきた4児のママに聞いてみた",
+          "ref": "turn16view2",
+          "scopeAndEvidence": "Municipal interview explains Hida lexical meanings and identifies Takayama, Hida, Gero and Shirakawa as its Hida scope. Local variation acknowledged.",
+          "cardCount": 7
+        },
+        {
+          "url": "https://www.city.takayama.lg.jp/machihaku/1005304/1008962.html",
+          "title": "飛騨高山まちの博物館：平成27年度特別展「ぼーとびー」",
+          "ref": "turn43search1",
+          "scopeAndEvidence": "Municipal museum explicitly defines the two traditional words for children.",
+          "cardCount": 2
+        },
+        {
+          "url": "https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/008/464/aburae.pdf",
+          "title": "高山市地産地消推進会議：飛騨の旬の食材「あぶらえ」",
+          "ref": "turn43search9",
+          "scopeAndEvidence": "Municipal food education sheet explicitly contrasts local aburae with egoma.",
+          "cardCount": 1
+        },
+        {
+          "url": "https://www.city.kyoto.lg.jp/sogo/page/0000097418.html",
+          "title": "京都市：きょうとこども情報館・京ことば辞典",
+          "ref": "turn26view0",
+          "scopeAndEvidence": "Official Kyoto city glossary. Mapped only to kyoto, not Yamashiro or Tango. All learning examples are newly composed.",
+          "cardCount": 8
+        },
+        {
+          "url": "https://www.city.kyotango.lg.jp/material/files/group/43/chiikigakusyuuhukudokuhon.pdf",
+          "title": "京丹後市：地域学習副読本「方言〜丹後弁〜」",
+          "ref": "turn43search14",
+          "scopeAndEvidence": "Municipal educational reader pp. 51–52; indexed text retrieved by search. Reader explicitly warns that some terms have become less used.",
+          "cardCount": 8
+        },
+        {
+          "url": "https://www.city.kyotango.lg.jp/material/files/group/3/201409.pdf",
+          "title": "京丹後市広報：丹後ことばと尾張ことばに共通する主な言葉の例",
+          "ref": "turn28search16",
+          "scopeAndEvidence": "Official comparative list, part of a municipal and prefectural research project. Directly attests selected terms in Owari; mapped to nagoya only.",
+          "cardCount": 4
+        },
+        {
+          "url": "https://www.library.city.nagoya.jp/reference/chosahoukoku/chosahoukoku_139.html",
+          "title": "名古屋市図書館：調査団報告書No.139「ケッタ」",
+          "ref": "turn41view3",
+          "scopeAndEvidence": "Municipal library reference investigation; confirms bicycle meaning and comparatively recent attestation. No origin claims included.",
+          "cardCount": 1
+        },
+        {
+          "url": "https://wave.pref.wakayama.lg.jp/bunka-archive/hougen/kana/kana1.html",
+          "title": "和歌山県文化情報アーカイブ：方言50音順「あ」",
+          "ref": "turn38view0",
+          "scopeAndEvidence": "Prefectural archive explains its alphabetical glossary covers words comparatively frequent across the prefecture. Mapped to broad wakayama region only.",
+          "cardCount": 2
+        },
+        {
+          "url": "https://wave.pref.wakayama.lg.jp/bunka-archive/hougen/kana/kana2.html",
+          "title": "和歌山県文化情報アーカイブ：方言50音順「か」",
+          "ref": "turn39view0",
+          "scopeAndEvidence": "Prefectural archive alphabetical glossary. No claim of uniqueness to Wakayama.",
+          "cardCount": 1
+        },
+        {
+          "url": "https://wave.pref.wakayama.lg.jp/bunka-archive/hougen/kana/kana3.html",
+          "title": "和歌山県文化情報アーカイブ：方言50音順「さ」",
+          "ref": "turn39view1",
+          "scopeAndEvidence": "Prefectural archive alphabetical glossary. Only lexical facts used; source health assertions were excluded.",
+          "cardCount": 2
+        },
+        {
+          "url": "https://wave.pref.wakayama.lg.jp/bunka-archive/hougen/kana/kana6.html",
+          "title": "和歌山県文化情報アーカイブ：方言50音順「は」",
+          "ref": "turn39view3",
+          "scopeAndEvidence": "Prefectural archive alphabetical glossary; traditional clothing sense selected.",
+          "cardCount": 1
+        },
+        {
+          "url": "https://www.city.hamamatsu.shizuoka.jp/koho2/room/interview/26/1224.html",
+          "title": "浜松市：2014年12月定例記者会見",
+          "ref": "turn41view1",
+          "scopeAndEvidence": "Municipal press conference explicitly defines marusara as all/whole in Enshu dialect.",
+          "cardCount": 1
+        },
+        {
+          "url": "https://www.city.hamamatsu.shizuoka.jp/koho2/pr/tiktok/index.html",
+          "title": "浜松市公式TikTok「いいとこだに、浜松」",
+          "ref": "turn41view2",
+          "scopeAndEvidence": "Current municipal page explicitly defines dani as dayo; no other Enshu grammar inferred.",
+          "cardCount": 1
+        },
+        {
+          "url": "https://www.pref.niigata.lg.jp/sec/sado_kenko/so.html",
+          "title": "新潟県：佐渡食育かるた「そ」",
+          "ref": "turn41view0",
+          "scopeAndEvidence": "Prefectural Sado regional bureau explicitly glosses agreement and rejection expressions. Food pronunciation varies within Sado.",
+          "cardCount": 3
+        }
+      ],
+      "limitations": [
+        "Examples are original learning dialogues. Surrounding grammar is standard Japanese; they are not transcripts of native local conversation.",
+        "Romanization is a readable approximation, not an accent transcription.",
+        "The Yamanashi chart and several child/clothing words are traditional; no claim that every generation still uses them.",
+        "The Niigata glossary blends prefectural varieties; all its words are assigned only to the broad niigata ID.",
+        "Primary online vocabulary evidence concentrated on Kyoto/Tango, Wakayama, Gifu/Hida, Kofu/Yamanashi, Niigata/Sado, Nagoya and Enshu. No unsupported additions were distributed to every other subregion.",
+        "Several municipal PDF opens failed; search returned indexed text with explicit target forms and meanings. These sources are labeled in the ledger."
+      ]
+    },
+    "south": {
+      "entryCount": 79,
+      "sourceCount": 13,
+      "regionCounts": {
+        "okayama": 8,
+        "tottori-city": 5,
+        "yonago": 5,
+        "shunan": 7,
+        "kagawa": 10,
+        "tokushima": 3,
+        "karatsu": 6,
+        "kumamoto": 6,
+        "aso": 2,
+        "kagoshima": 4,
+        "amami": 3,
+        "kochi-city": 4,
+        "miyazaki": 2,
+        "oita": 1,
+        "ehime": 1,
+        "nagasaki": 1,
+        "kitakyushu": 1,
+        "miyakojima": 4,
+        "yaeyama": 3,
+        "okinawa-south": 3
+      },
+      "sources": [
+        {
+          "sourceUrl": "https://okayama-life.jp/dialect",
+          "sourceTitle": "岡山市移住支援サイト「岡山弁講座」",
+          "scope": "岡山市・備前の説明を優先。県内の命令形には地域差がある。",
+          "browseRefs": "turn18view0",
+          "count": 8,
+          "regions": [
+            "okayama"
+          ],
+          "phrases": [
+            "もんげー大きいね",
+            "この枝、ふてーね",
+            "このひも、なげーね",
+            "今日はあちーね",
+            "朝はさみーね",
+            "いぬ",
+            "みられー",
+            "こられー"
+          ]
+        },
+        {
+          "sourceUrl": "https://www.pref.tottori.lg.jp/28531.htm",
+          "sourceTitle": "鳥取県「鳥取県の文化・伝統」方言表",
+          "scope": "鳥取市は因幡、米子は伯耆の欄に対応。東西の語形を混同しない。",
+          "browseRefs": "turn23view0",
+          "count": 10,
+          "regions": [
+            "tottori-city",
+            "yonago"
+          ],
+          "phrases": [
+            "アソバイヤ",
+            "スンマセン",
+            "キガワルイ",
+            "オットロシイ",
+            "クタブレル",
+            "アスバイヤ",
+            "がいな箱",
+            "カンニンエ",
+            "朝はサビ",
+            "キョートイ"
+          ]
+        },
+        {
+          "sourceUrl": "https://hagilib.city.hagi.lg.jp/hagilib-archive/image/863.pdf",
+          "sourceTitle": "阿部啓治「てれんこぽれんこ山口弁」（萩市立図書館公開）",
+          "scope": "周南地方中心の2024年改訂資料。1950年頃生まれの話者が使用・過去使用・聞いた語を含む。",
+          "browseRefs": "turn49view0 / turn34view2",
+          "count": 7,
+          "regions": [
+            "shunan"
+          ],
+          "phrases": [
+            "ひもをきびる",
+            "みやすい作業",
+            "ねき",
+            "この味、むつこいね",
+            "はぶてる",
+            "しあわせます",
+            "あずる"
+          ]
+        },
+        {
+          "sourceUrl": "https://www.pref.kagawa.lg.jp/documents/14715/76_77.pdf",
+          "sourceTitle": "香川県教育委員会「ふるさと香川」香川（讃岐）の方言 pp.76–77",
+          "scope": "県の教育教材。東讃・中讃など個別地域全体への分布は主張しない。",
+          "browseRefs": "turn18view2; locally downloaded and rendered page 77",
+          "count": 10,
+          "regions": [
+            "kagawa"
+          ],
+          "phrases": [
+            "こんまい箱",
+            "けっこい花",
+            "さらのノート",
+            "まんでがん",
+            "ごはんをつぐ",
+            "箱にしのべる",
+            "ものご",
+            "ひもをいわえる",
+            "いきし",
+            "でぼちん"
+          ]
+        },
+        {
+          "sourceUrl": "https://www.vill.sanagochi.lg.jp/docs/2022071500041/",
+          "sourceTitle": "佐那河内村「村の方言『ひどい』」",
+          "scope": "ほなけん・どちらいかは阿波弁として明示。ひどいは佐那河内村の用法。",
+          "browseRefs": "turn34view3",
+          "count": 3,
+          "regions": [
+            "tokushima"
+          ],
+          "phrases": [
+            "ほなけん",
+            "どちらいか",
+            "ひどいな"
+          ]
+        },
+        {
+          "sourceUrl": "https://www.town.genkai.lg.jp/site/kankou/88072.html",
+          "sourceTitle": "玄海町「玄海町の方言」",
+          "scope": "玄海町の歴史語彙。1958年刊「値賀史」を一部修正した表。唐津・北西部佐賀カード内で玄海町に限定。",
+          "browseRefs": "turn23view1",
+          "count": 6,
+          "regions": [
+            "karatsu"
+          ],
+          "phrases": [
+            "がね",
+            "ぼうぶら",
+            "てぼ",
+            "よさり",
+            "ひだるか",
+            "おらぶ"
+          ]
+        },
+        {
+          "sourceUrl": "https://www.pref.kumamoto.jp/uploaded/life/258611_794494_misc.pdf",
+          "sourceTitle": "熊本県「くまもと方言ハンドブック」2026年",
+          "scope": "県全域の表示と県北・県央の表示を区別。阿蘇は県北の項目のみ。",
+          "browseRefs": "turn34view0 / turn37view0; locally rendered pages 2–4",
+          "count": 8,
+          "regions": [
+            "aso",
+            "kumamoto"
+          ],
+          "phrases": [
+            "来なっせ",
+            "見てはいよ",
+            "はがいか",
+            "でけん",
+            "おおごつ",
+            "いっちょん分からない",
+            "確認せなん",
+            "しもうた"
+          ]
+        },
+        {
+          "sourceUrl": "https://www.pref.kagoshima.jp/ab10/kyoiku-bunka/bunka/shinko/documents/hougen.pdf",
+          "sourceTitle": "鹿児島県「かごしまの方言ミニ講座」",
+          "scope": "薩摩・大隅と奄美を別の欄で紹介。奄美欄も島・集落ごとの差があるため代表例として限定。",
+          "browseRefs": "turn21view0; locally downloaded and rendered page 1",
+          "count": 7,
+          "regions": [
+            "amami",
+            "kagoshima"
+          ],
+          "phrases": [
+            "またごあんそ",
+            "あいがともさげもした",
+            "うんだもしたん",
+            "どうか、おきばいやんせ",
+            "いもーりんしょうれ",
+            "うがみんしょーら",
+            "またうがみんしょーろ"
+          ]
+        },
+        {
+          "sourceUrl": "https://www.city.kochi.kochi.jp/deeps/kochi-life/index.html",
+          "sourceTitle": "高知市移住支援サイト「こうちらいふ」",
+          "scope": "高知市公式サイトが「ぼっちり」の意味を明示。",
+          "browseRefs": "turn46view0",
+          "count": 1,
+          "regions": [
+            "kochi-city"
+          ],
+          "phrases": [
+            "ぼっちり"
+          ]
+        },
+        {
+          "sourceUrl": "https://www.city.kochi.kochi.jp/deeps/20/2019/muse/hanashi/hanashi38.html",
+          "sourceTitle": "高知市春野郷土資料館「ヒルマンぼうず」注釈",
+          "scope": "春野の昔話注釈でいぬる・だれるを説明。現代の全話者の使用を保証しない。",
+          "browseRefs": "turn46view1",
+          "count": 2,
+          "regions": [
+            "kochi-city"
+          ],
+          "phrases": [
+            "いぬる",
+            "だれる"
+          ]
+        },
+        {
+          "sourceUrl": "https://www.city.kochi.kochi.jp/joho/upload/files/0502/1205_pabukome_hp.pdf",
+          "sourceTitle": "高知市文化施策資料・用語解説「おきゃく」",
+          "scope": "用語解説p.28で土佐弁の宴会と明示。",
+          "browseRefs": "turn46view2",
+          "count": 1,
+          "regions": [
+            "kochi-city"
+          ],
+          "phrases": [
+            "おきゃく"
+          ]
+        },
+        {
+          "sourceUrl": "https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-236/",
+          "sourceTitle": "国立国語研究所ことば研究館「オノマトペにも方言がありますか」",
+          "scope": "辞典類に基づく地域一覧。県内すべての市町村への分布・現在頻度は主張しない。",
+          "browseRefs": "turn49view2",
+          "count": 6,
+          "regions": [
+            "ehime",
+            "kitakyushu",
+            "miyazaki",
+            "nagasaki",
+            "oita"
+          ],
+          "phrases": [
+            "ゾップイ",
+            "ガッツイ",
+            "トンボラ",
+            "ハツハツ",
+            "ドベドベ",
+            "グラグラ"
+          ]
+        },
+        {
+          "sourceUrl": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/011/776/tokuhonchup86-124.pdf",
+          "sourceTitle": "沖縄県「しまくとぅば読本」索引 pp.100–124",
+          "scope": "那覇・名護市久志・宮古島市平良・石垣市四箇・与那国町祖納の五つを区別した資料。今回は那覇・平良・四箇だけ採用。",
+          "browseRefs": "turn23view2 / turn40view1 / turn40view2",
+          "count": 10,
+          "regions": [
+            "miyakojima",
+            "okinawa-south",
+            "yaeyama"
+          ],
+          "phrases": [
+            "あすぱ",
+            "あがいたんでぃ",
+            "あつぁやー",
+            "いすか やりゃー",
+            "あさば",
+            "あっぱー",
+            "いこーびかやー",
+            "うにげー さびら",
+            "うさがみそーれー",
+            "うじらーさん"
+          ]
+        }
+      ],
+      "limitations": [
+        "Examples are newly composed learning dialogues. Source facts are the dialect forms, meanings and regional scopes; examples are not quoted field transcripts.",
+        "No claim of current usage frequency is made. Genkai is explicitly a historical lexicon; Shunan includes older speakers' past and heard vocabulary.",
+        "Kagawa and NINJAL prefecture-level evidence is used only on broad region IDs, without inventing narrower municipal distributions.",
+        "Ryukyuan entries are labeled by language and local variety. Okinawan Japanese is distinguished from Naha Okinawan; Hirara Miyako and Shika Ishigaki Yaeyama are not treated as one Okinawa dialect.",
+        "Romaji is a learner approximation, especially for Ryukyuan languages. No pitch-accent or exact phonetic transcription is claimed.",
+        "These additions do not repair pre-existing phrases in the pool; some existing island placeholders appear to import mainland Okinawa greetings into other language regions.",
+        "There is no new coverage for Hiroshima, Izumo, Iwami, Oki, Goto, Amakusa, Kumejima or many other southern subregions because conservative source matching took priority over spreading evidence."
+      ]
+    }
+  }
+}
